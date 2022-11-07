@@ -23,7 +23,7 @@ name			: "Simon Wolf"
 description		: "Sometimes random, occasionally focused, rarely proof-read."
 url			: "https://blog.sgawolf.com"
 baseurl			: ""
-repository		: "simon-wolf/swwritings"
+repository		: "simon-wolf/blog"
 words_per_minute	: 200
 atom_feed:
   path			: "/feed.xml"
