@@ -36,3 +36,19 @@ Deletes the specified remote branch but only if all changes have been merged.
 
 Renames the current branch to `<branch>`.
 
+# Reviewing & Changing History
+
+`git log`
+
+Lists commits.
+
+`git show --source`
+
+Shows the details (including the diff) of the last commit.
+
+`git commit --amend`
+
+Edits the last commit message. Files can also be added via `git add <filename>` or removed via `git rm <filename>` before running this command.
+
+If the commit has been pushed then the `--force` parameter will be needed: `git push --force` (note that this is more dangerous with repositories which others may be using).
+
