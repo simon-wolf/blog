@@ -7,6 +7,6 @@ My name is Simon Wolf and I have been an [Elixir](https://elixir-lang.org) devel
 
 I run a family business, [Mindme](https://mindme.care), with my sister and I live in England in a small village in the Mendip Hills in Somerset. My nearest town is [Frome](http://www.discoverfrome.co.uk/frome/), famed for its independent shops, great markets and [Festival](http://www.fromefestival.co.uk) amongst other things.
 
-You can find me on Twitter as [@sgaw](https://twitter.com/sgaw) and on Mastodon as [@simon@social.sgawolf.com](https://social.sgawolf.com/@simon).
+You can find me on Mastodon as [@simon@social.sgawolf.com](https://social.sgawolf.com/@simon).
 
 You can find my open-source code on [GitHub](https://github.com/simon-wolf) but if you use any of my source code in your projects then please review the [license agreement](https://blog.sgawolf.com/licenseagreement) first.
