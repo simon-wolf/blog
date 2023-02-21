@@ -8,47 +8,50 @@ This blog post is a personal reference in that I wanted to document the [Git](ht
 
 # Branching
 
+List the local and remote branches:
+
 `git branch -a`
 
-Lists the local and remote branches.
+Create the specified branch and check it out:
 
 `git checkout -b <new-branch>`
 
-Create the specified branch and checks it out.
+Check out the specified branch:
 
 `git checkout <branch>`
 
-Checks out the specified branch.
+Delete the specified branch but only if all changes have been merged:
 
 `git branch -d <branch>`
 
-Deletes the specified branch but only if all changes have been merged.
+Force delete the specified branch:
 
 `git branch -D <branch>`
 
-Force deleted the specified branch.
+Delete the specified remote branch but only if all changes have been merged:
 
 `git push origin -d <branch>`
 
-Deletes the specified remote branch but only if all changes have been merged.
+Rename the current branch to `<branch>`:
 
 `git branch -m <branch>`
 
-Renames the current branch to `<branch>`.
+Remove local branches that have been tracking remote branches that have been deleted:
+
+`git fetch --prune` or `git remote prune origin`
 
 # Reviewing & Changing History
 
+List commits:
+
 `git log`
 
-Lists commits.
+Show the details (including the diff) of the last commit:
 
 `git show --source`
 
-Shows the details (including the diff) of the last commit.
+Edit the last commit message. Files can also be added via `git add <filename>` or removed via `git rm <filename>` before running this command.
 
 `git commit --amend`
 
-Edits the last commit message. Files can also be added via `git add <filename>` or removed via `git rm <filename>` before running this command.
-
-If the commit has been pushed then the `--force` parameter will be needed: `git push --force` (note that this is more dangerous with repositories which others may be using).
-
+_If the commit has been pushed then the `--force` parameter will be needed: `git push --force` (note that this is more dangerous with repositories which others may be using)._
