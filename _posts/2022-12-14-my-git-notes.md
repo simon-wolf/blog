@@ -22,6 +22,10 @@ Check out the specified branch:
 
 Delete the specified branch but only if all changes have been merged:
 
+`git checkout -b <branch> origin/<branch>`
+
+Checks out a remote branch.
+
 `git branch -d <branch>`
 
 Force delete the specified branch:
