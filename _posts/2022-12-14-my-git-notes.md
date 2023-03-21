@@ -20,11 +20,11 @@ Check out the specified branch:
 
 `git checkout <branch>`
 
-Delete the specified branch but only if all changes have been merged:
+Checks out a remote branch.
 
 `git checkout -b <branch> origin/<branch>`
 
-Checks out a remote branch.
+Delete the specified branch but only if all changes have been merged:
 
 `git branch -d <branch>`
 
