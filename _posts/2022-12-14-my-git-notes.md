@@ -20,7 +20,7 @@ Check out the specified branch:
 
 `git checkout <branch>`
 
-Checks out a remote branch.
+Check out a remote branch.
 
 `git checkout -b <branch> origin/<branch>`
 
