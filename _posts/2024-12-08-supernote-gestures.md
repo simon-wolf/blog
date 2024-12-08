@@ -6,6 +6,8 @@ categories: miscellaneous
 
 These notes are my personal notes about using the [Supernote A6 X2 Nomad](https://supernote.com/products/supernote-nomad).
 
+They will be updated regularly as I add more things I want to refer back to.
+
 ## Gestures
 
 The device has sidebars on the left and right and their "role" swaps depending on whether you have the device set up for a lieft-handed or right-handed person. Therefore they will be referred to the the primary and secondary sidebars (primary is the one on the right in right-handed mode and on the left in left-handed mode).
