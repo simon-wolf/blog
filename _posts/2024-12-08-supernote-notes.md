@@ -12,6 +12,7 @@ They will be updated regularly as I add more things I want to refer back to. The
 
 * [First Impressions](https://blog.sgawolf.com/post/2024-12-08-supernote-first-impressions).
 * [Navigation](https://blog.sgawolf.com/post/2024-12-09-supernote-navigation) within and between notes.
+* [Size of a Supernote](https://blog.sgawolf.com/post/2024-12-09-size-of-a-supernote) is a comparison of the Superenote's size vs. a Moleskine, a Rhodia pad and a reMarkable 2.
 
 ## Gestures
 
