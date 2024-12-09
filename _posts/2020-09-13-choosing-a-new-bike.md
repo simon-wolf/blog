@@ -26,7 +26,7 @@ Speaking of local bike shops, AVC is a great one. As well as offering me good ad
 
 And so my new bike is a Tern HSD and I love it. I've cycled more and further in the last ten days than I have in the previous nine months and I hope that not only will I continue to cycle but that I will also fulfil my plan of replacing the car with it for some shopping trips.
 
-<img src="https://blog.sgawolf.comimages/2020-09-13-choosing-a-new-bike-01.jpeg" alt="My Tern HSD S+" width="100%" />
+<img src="https://blog.sgawolf.com/images/2020-09-13-choosing-a-new-bike-01.jpeg" alt="My Tern HSD S+" width="100%" />
 
 ## Additional Notes
 
