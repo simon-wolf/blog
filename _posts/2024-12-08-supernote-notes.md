@@ -1,12 +1,17 @@
 ---
 date: 2024-12-08 18:00
 title: My Supernote Notes
-categories: miscellaneous
+categories: supernote
 ---
 
 These notes are my personal notes about using the [Supernote A6 X2 Nomad](https://supernote.com/products/supernote-nomad).
 
-They will be updated regularly as I add more things I want to refer back to.
+They will be updated regularly as I add more things I want to refer back to. They will also act as an index to related blog posts about the Nomad.
+
+## Related Posts
+
+* [First Impressions](https://blog.sgawolf.com/post/2024-12-08-supernote-first-impressions).
+* [Navigation](https://blog.sgawolf.com/post/2024-12-09-supernote-navigation) within and between notes.
 
 ## Gestures
 
