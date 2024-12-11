@@ -31,3 +31,14 @@ The device has sidebars on the left and right and their "role" swaps depending o
 | Toggle toolbar | Two-finger double-tap |
 | Toggle page number bar | Double-tap bottom of screen |
 
+## Custom Templates
+
+Supported formats are:
+
+* PNG
+* JPG/JPEG
+* WEBP
+* PDF
+
+Optimal size is 1404px by 1872px.
+
