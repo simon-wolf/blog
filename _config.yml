@@ -34,8 +34,6 @@ search_full_content	: false
 include: ["_pages"]
 
 # Social Sharing
-twitter:
-  username		: sgaw
 og_image		: "/images/sw_avatar.jpg"
 social:
   type			: Person
