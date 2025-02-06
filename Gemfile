@@ -7,10 +7,10 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-# gem "jekyll", "~> 4.2.2"
+# gem "jekyll", "~> 4.4", ">= 4.4.1"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "github-pages", "~> 225"
-  gem "jekyll-include-cache"
+  gem "github-pages", "~> 232", group: :jekyll_plugins
+  gem "jekyll-include-cache", group: :jekyll_plugins
 end
