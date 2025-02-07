@@ -16,3 +16,7 @@ If the `Gemfile` is updated then run:
 
 `nix-shell -p bundler -p bundix --run 'bundler update; bundler lock; bundler package --no-install --path vendor; bundix; rm -rf vendor'`
 
+To review draft posts:
+
+`jekyll serve --drafts`
+
