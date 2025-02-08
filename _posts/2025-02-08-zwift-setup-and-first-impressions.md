@@ -60,7 +60,7 @@ As well as riding more regularly and increasing my distances and the climbs duri
 * Try a race. I know I'll do badly but who knows... I may not come last and if I do it may not be by too large of a margin.
 * Do an [FTP](https://zwiftinsider.com/what-is-ftp-functional-threshold-power-and-why-does-it-matter-on-zwift/) (functional threshold power) test to help me gauge over time my fitness improvements. I think it also helps with the Zwift training workouts.
 
-I am very fortunate that I have found a lovely on-line community of people in [Ryan Condon's Discord](https://discord.com/invite/ffQw8XyXSu) who are very friendly, supportive and helpful (see [my previous post](https://blog.sgawolf.com/post/2025-02-06-changing-my-lifestyle) to find out who Ryan is and why he has been a big part of me going from just worrying about my weight and fitness problems to actually doing something about it).
+I am very fortunate that I have found a lovely on-line community of people in [Ryan Condon's Discord](https://discord.com/invite/ffQw8XyXSu) who are very friendly, supportive and helpful (see [my previous post](https://blog.sgawolf.com/post/2025-02-08-changing-my-lifestyle) to find out who Ryan is and why he has been a big part of me going from just worrying about my weight and fitness problems to actually doing something about it).
 
 More posts will follow about my health and fitness journey and if you want to [follow me on Zwift](https://www.zwift.com/athlete/c18f96af-d752-4ed1-a273-d2c84383688a) then please do so.
 
