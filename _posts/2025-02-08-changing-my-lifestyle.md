@@ -1,5 +1,5 @@
 ---
-date: 2025-02-06 12:00
+date: 2025-02-08 12:00
 title: Changing My Lifestyle
 categories: health
 ---
@@ -58,4 +58,3 @@ Whilst you can use your own bike and smart trainer with Zwift, for someone like 
 
 I'm going to end this post here because it will all get too long and unfocused otherwise. I wanted to write down what has kick-started my journey to a healthier, fitter me and one which will hopefully give me a chance to live a little longer and live a better quality of life in my old age.
 
-I will write future posts about Zwift and walking/running and the first one will be my experience of building my Zwift Ride, what my setup is, and my first few, pretty casual, rides.
