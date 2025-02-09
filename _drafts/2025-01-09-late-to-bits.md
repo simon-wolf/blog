@@ -1,7 +1,7 @@
 ---
-date: 2024-12-08 18:00
-title: My Supernote Notes
-categories: supernote
+date: 2025-01-09 12:00
+title: Late To Bits
+categories: miscellaneous
 ---
 
 Confession time... I've been a software devloper for 30 years and I've never had to dig into bits and bytes until very recently when I needed to be able to parse hex-encoded binary data. I've learnt quite a lot during the process and I've decided to write some of it down so that if I ever need to do so again I have some notes to refer back to.
