@@ -1,45 +1,41 @@
 ---
-date: 2025-03-01 18:00
-title: The First Thirty Days
+date: 2025-03-02 18:00
+title: Seeing The Difference
 categories: health
 ---
 
-It has been 30 days since my Zwift Ride was delivered and I had that tentative first ride in jeans and slippers. Whilst I'm not going to do this on a regular basis, I though I'd post some information about how the first 30 days have gone for me.
+It has been a few weeks since [I first wrote](2025-02-08-changing-my-lifestyle) about the changes I was making to my lifestyle and so it is time for an update.
 
-## Weight
+## Weight and Diet
 
-I started measuring my weight properly a few days before my indoor cycling kit arrived. I weigh myself every Sunday morning and yes, I do sometimes have to fight the urge to do extra checks.
+I started measuring my weight properly on the 19th of January when I was 101.5 kg. Since then I have done weekly weigh-ins on Sunday mornings and today I weighed myself and I was down to ... There is still a long way to go but I have noticed the difference both in how I look in the mirror and in how my clothes fit. Last weekend I put on my jeans, did up my belt and moved to the next notch which was very satisfying!
 
-My first weigh-in was on Sunday 19 January when I was 101.5 kg. My most recent one was on Sunday 23 February (see no cheating since the next one is tomorrow) and my weight was down to ...
+Over the last few weeks I have successfully cut out the unhealthy snacks I used to eat. Out have gone the multipacks and sharing bags of crisps, out have gone the sweets, out have gone the impromptu late-night sandwiches. I've been much more conscious about eating fruit, some raw carrots or a handfull of nuts instead. I've not really had any cravings and a key element is definitely not having bad snacks in my house. When my daughter came home from university for a couple of days we had some in the house and when she left I quite deliberately threw the reamining bits and pieces out.
 
-My dietary changes are still going well and it's been around six weeks since I ate any crisps, sweets, cakes, or things that I knew were likely to be bad for me and I've also pretty much given up eating bread too.
+In terms of meals themselves I've been very conscious about cutting out ready-meals and trying to avoid ultra-processed foods as much as I can. I've not eaten very much meat in the  last few weeks and when I have it has either been chicken or fish. I've not eaten bread and brown rice has replaced potatoes in a lot of my meals. Fortunately I do like salads and because they are quick and easy to put together I've been eating them a few times a week for suppers too.
 
-...
+However I'm not going to deprive myself of everything. If I have an urge for a pizza or a fish finger sandwich I'm not going to fight it; I just need to make sure that they are treats and not regular meals.
 
-## Cycling
+I am not calorie-counting but I have had days where I have counted them up to check that I am not too far off where I should be and fortunately I've been getting things pretty much right so far.
 
-Indoor cycling doesn't get easier, you just get faster but just as sweaty and out of breath.
+## Exercise
 
-However, as a comparison, this morning I repeated the first ever ride I did and the details are below. Unfortunately my heart rate monitor had not arrived when I did the ride originally so one of the key bits of information is missing. I have therefore inserted the data from my second ever ride which was a very slightly longer version of the same route and where the other data is so close that it is a reasonable yardstick.
+All of my exercise so far has been indoor cycling on my Zwift Ride. Between getting it and today I've spent xxx hours riding ... km.
 
-| Volcano Circuit | 30 January  | 1 March |
-| Time | 12:18 | |
-| Calories | 94 | |
-| Maximum Power | 289 Watts | |
-| Average Power | 133 Watts |  |
-| Maximum Cadande | 89 RPM |  |
-| Average Cadance | 70 RPM |  |
-| Maximum Heart Rate | 182 BPM |  |
-| Average Heart Rate | 164 BPM |  |
-
-[How is Zwift going?]
-
-[New activities, FTP test results, fitness progamme, race?]
-
-## Walking And Running
+### Fitness Programme
 
 
-## General Wellness
+### Group Ride
+
+
+### Padded Bib Shorts
+
+
+### Zwift Ride Replacement
+
+
+
+## General Wellbeing
 
 In general I'm physically and mentally feeling a lot better than I did at the start of 2025. I tend to ache less in general and getting out of bed feels less of a struggle (which sounds pathetic for someone in their early 50s but odd aches and pains were a thing). I am more flexible and, in another terrible confession, bending down to pick up things like cat bowls had been a conscious effort (not a huge one but enough of one to notice) whereas now my knees seem to work a lot better and my back is more flexible.
 
@@ -50,8 +46,6 @@ A warning for the next two paragraph about my body shape because it may be too m
 My general body shape still isn't great and I obviously still have a large belly but where there used to be a fold of fat at the bottom of it, it is now just a rounded lump. I am hoping that the crease marks will eventually fade a bit and I am hoping that the skin was not stretched so far that I will end up with loose skin there. It may happen as I loose more weight however and I'm accepting that as a worthwhile trade-off.
 
 My breasts are also the other area where I have a lot of fat. They too have shrunk a bit and again I am hoping that I don't have too much loose skin there but time will tell.
-
-## Mental Health
 
 
 ## My Final Thoughts
