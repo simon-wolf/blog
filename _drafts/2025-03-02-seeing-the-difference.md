@@ -22,7 +22,7 @@ Nor am I calorie-counting. I have had a few days where I have added them up to c
 
 ## Exercise
 
-All of my exercise so far has been indoor cycling on my Zwift Ride. Since getting it I've spent xxx hours riding ... km spread across various types of activity.
+All of my exercise so far has been indoor cycling on my Zwift Ride. Since getting it I've spent 11 and a half hours riding 277 km which have been spread across various types of activity.
 
 ### Fitness Programme
 
@@ -43,6 +43,16 @@ I have enjoyed picking routes and just going for a ride and taking in the scener
 ### Races
 
 For many people, the main attraction of Zwift is the races and events comprising multiple races. A month on I have yet to take part in one. But tomorrow the [Zwift Games 2025](https://news.zwift.com/en-WW/247247-the-record-breaking-zwift-games-returns-for-2025) starts and I am really tempted to sign up and take part. Watch this space...
+
+### An Unscientific Comparison
+
+My first ride on Zwift on 30 January was a loop of Volcano Circuit and I set a time of 8:10. During the overall ride my power output averaged 133 watts and my average cadence was 70 RPM. I didn't have a heart rate monitor at that point.
+
+The next day I did another loop but my time was 9:09. I think this was probably largely due to the pain I was in! During this ride my average power output was 117 watts and my average cadence was 74 RPM. My heart rate averaged 164 BPM.
+
+Yesterday, on 1 March, I rode two laps again and set a PB of 7:44.1 on the first lap and 7:37.3 on the second one. My power output averaged 153 watts and my average cadence was 85 RPM. My average heart rate was 150 BPM. I also increased my FTP from 152 to 153.
+
+So in four weeks I am cycling with more power, faster cadence and a lower heart rate. This is all to be expected when you are exercising to get fitter but sitting down and comparing the figures is very encouraging.
 
 ## Cycling-Related Updates
 
@@ -88,5 +98,5 @@ However I will also say that picking indoor cycling in the privacy of my own hom
 
 I know that this is going to be a long, on-going, journey and that there may be times when I loose motivation but I really hope that by adding some jogging into the mix and also some outdoor cycling when the weather is better I will have enough variety of activities to keep me engaged until it all really does become an ingrained part of my lifestyle.
 
-At 52 I will say that it is never too late to start this sort of journey and whether it helps me live a longer, healthier life or not, I'm feeling better about myself physically and mentally right now. This has all been a positive process with no real down-sides apart from the cost of it all. But more about that another time.
+52 is definitely not too late to start this sort of journey and whether it helps me live a longer, healthier life or not, I'm feeling better about myself physically and mentally right now. This has all been a positive process with no real down-sides apart from the cost of it all. But more about that another time.
 
