@@ -32,13 +32,13 @@ It is also worth mentioning that Zwift allows you to do individual workouts. The
 
 ### Group Ride
 
-A couple of weeks ago a group of people from [Ryan Condon's Discord](https://discord.com/invite/ffQw8XyXSu) did a long (over 120 km over more than six hours) group ride and I went along for some of it thanks to a great Zwift feature called [Rubber Banding](https://zwiftinsider.com/group-ride-rubber-banding/). This essentially keeps a group of riders together by adjusting everyone's speed so I was essentially being pulled along by the stronger riders in the group. I also dropped the [Trainer Difficulty](https://zwiftinsider.com/using-the-trainer-difficulty-setting-in-zwift/) so that the hills were effectively treated as having zero gradient. Yes it was "cheating" and no, I don't care. It was a hugely enjoyable way to spend some time with some lovely, friendly, supportive people and it was also sociable and fun and I ended up riding for 90 minutes, my longest ride so far.
+A couple of weeks ago a group of people from [Ryan Condon's Discord](https://discord.com/invite/ffQw8XyXSu) did a long group ride (over 120 km lasting more than six hours) and I went along for some of it thanks to a great Zwift feature called [Rubber Banding](https://zwiftinsider.com/group-ride-rubber-banding/). This essentially keeps a group of riders together by adjusting everyone's speed so I was essentially being pulled along by the stronger riders in the group. I also dropped the [Trainer Difficulty](https://zwiftinsider.com/using-the-trainer-difficulty-setting-in-zwift/) so that the hills were effectively treated as having zero gradient. Yes it was "cheating" and no, I don't care. It was a hugely enjoyable way to spend some time with some lovely, friendly, supportive people and it was also sociable and fun and I ended up riding for 90 minutes, my longest ride so far.
 
 ### Random Routes
 
 Zwift allows you to pick routes and just ride them for your own fun and fitness. Routes are graded from 1 to 5 for effort and some routes are locked for higher level riders or for events.
 
-I have enjoyed picking routes and just going for a ride and taking in the scenery. But I have to confess that there have also been some occasions when I've ended up in a race with a complete stranger who has no idea I was trying to match their pace and those gentle rides have turned into something far more energetic. 
+I have enjoyed picking routes and just going for a ride and taking in the scenery. But I have to confess that there have also been some occasions when I've ended up in a race with a complete stranger who has no idea I was trying to match their pace and those gentle rides have turned into something far more energetic. As an added bonus, one of those also resulted in a small bump to my FTP from 150 to 152.
 
 ### Races
 
@@ -50,13 +50,13 @@ For many people, the main attraction of Zwift is the races and events comprising
 
 My old cycling shorts were not great and after the 90 minute group ride I knew I really needed to do something about replacing them.
 
-Buying cycling shorts seems to be a bit of a minefield because different styles and shapes of padding will work better for some people than others. Add weight loss into it and I didn't want to spend a huge amount on them so I pretty much blindly ended up buying a pair of [Giordana bib shorts](https://giordanacycling.com/products/fr-c-pro-bib-short#features-benefits) which I found discounted on [Decathlon's web site](https://www.decathlon.co.uk/p/mp/giordana/giordana-men-s-fr-c-pro-5cm-shorter-bibs-black/_/R-p-a6aebf68-455c-4de4-96bf-13ce7b17da89?mc=a6aebf68-455c-4de4-96bf-13ce7b17da89_c15&c=bordeaux#selectedSize=2XL) in a very fetching red colour!
+Buying cycling shorts seems to be a bit of a minefield because different styles and shapes of padding work better for some people than for others. Add weight loss into it and I didn't want to spend a huge amount on them so I pretty much blindly ended up buying a pair of [Giordana bib shorts](https://giordanacycling.com/products/fr-c-pro-bib-short#features-benefits) which I found discounted on [Decathlon's web site](https://www.decathlon.co.uk/p/mp/giordana/giordana-men-s-fr-c-pro-5cm-shorter-bibs-black/_/R-p-a6aebf68-455c-4de4-96bf-13ce7b17da89?mc=a6aebf68-455c-4de4-96bf-13ce7b17da89_c15&c=bordeaux#selectedSize=2XL) in a very fetching red colour!
 
-They are definitely better than my old shorts and bib shorts in themselves are different to shorts because the straps help hold them in place. However the padding doesn't quite go back as far as I would like although I think that might be partly due to my size (I bought the 2XL size and they fit snugly so hopefully they will see me through the loss of a fair few kilograms).
+They are definitely better than my old shorts and bib shorts are a step up from normal shorts because the shoulder straps help hold them in place. However the padding doesn't quite go back as far as I would like although I think that might be partly due to my size (I bought the 2XL size and they fit somewhat snugly so hopefully they will see me through the loss of a few more kilograms before I need to buy a smaller size).
 
 ### Clipless Pedals
 
-At the moment I'm cycling in trainers on Zwift's standard platform pedals. This works but I also want to try clipless because I do find that my feet shits around a lot and do sometimes feel that the Zwift Ride is 'free-pedalling' when my cadence gets high and the requires watts is low (as can happen in the fitness routines).
+At the moment I'm cycling in trainers on Zwift's standard platform pedals. This works but I also want to try clipless because I do find that my feet shift around a lot and do sometimes feel that the Zwift Ride is 'free-pedalling' when my cadence gets high and the requires watts is low (as can happen in the fitness routines).
 
 So far I've bought some [Shimano PD-RS500 SPD-SL pedals](https://ride.shimano.com/products/pd-rs500) and some [Shimano SM-SH11 SPD-SL Yellow cleats](https://ride.shimano.com/products/sm-sh11) so I now need to go and buy some clipless shoes which I want to do in-store rather than on-line to make sure that the fit properly. I'll post about this and the outcome in a future post.
 
@@ -82,9 +82,11 @@ I do think that I need to add some strength training to the mix now and I am als
 
 ## My Final Thoughts
 
-In four weeks I have gone from being completely sedentary to doing around three hours of solid exercise a week and, contrary to my doubts and worries I had before I started, it has been easy to do and enjoyable. The toughest part was definitely the mental element and getting started.
+In four weeks I have gone from being completely sedentary to doing around three hours of solid exercise a week and, contrary to my doubts and worries I had before I started, it has been both easy to do and enjoyable. The toughest part was definitely the mental hurdle of just getting started. Overcoming the fears of trying something new which was also something I'd almost become conditioned to be against was a big step but in retrospect incredibly trivial to do.
+
+However I will also say that picking indoor cycling in the privacy of my own home helped eliminate the social anxiety of starting this journey in public. I'm looking forward to starting my Couch to 5k training but I'm also nervous about walking and jogging outside, even if the rational part of my brain tells me that nobody else really cares and people I know who I bump into will be supportive rather than derogatory.
 
 I know that this is going to be a long, on-going, journey and that there may be times when I loose motivation but I really hope that by adding some jogging into the mix and also some outdoor cycling when the weather is better I will have enough variety of activities to keep me engaged until it all really does become an ingrained part of my lifestyle.
 
-At 52 I will say that it is never too late to start this sort of journey and whether it helps me live a longer, healthier life or not, I'm feeling better about myself physically and mentally right now. This has all been a positive process with no real down-sides apart from the cost of it all. But more about that another time...
+At 52 I will say that it is never too late to start this sort of journey and whether it helps me live a longer, healthier life or not, I'm feeling better about myself physically and mentally right now. This has all been a positive process with no real down-sides apart from the cost of it all. But more about that another time.
 
