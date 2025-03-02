@@ -8,7 +8,7 @@ It has been just over four weeks since I [first wrote](2025-02-08-changing-my-li
 
 ## Weight and Diet
 
-I started measuring my weight properly on the 19th of January when I was 101.5 kg. Since then I have done weekly weigh-ins on Sunday mornings and today I weighed myself and I was down to ... 
+I started measuring my weight properly on the 19th of January when I was 101.5 kg. Since then I have done weekly weigh-ins on Sunday mornings and today I weighed myself and I was down to 94.5 kg. 
 
 There is still a long way to go but I have noticed the difference both in how I look in the mirror and in how my clothes fit. Last weekend I put on my jeans, did up my belt and moved to the next notch which was very satisfying!
 
