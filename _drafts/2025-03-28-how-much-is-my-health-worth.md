@@ -89,12 +89,12 @@ It's easy to see that cycling has been the biggest investment but the per-catego
 
 | Category | Total |
 | --- | --: |
-| Weight Loss |  |
-| Cycling |  |
-| Running |  |
+| Weight Loss | £22.94 |
+| Cycling | £2,037.44 |
+| Running | £219.95 |
 | Luxury | £609.00 |
 
-And the grand total to date is £.
+And the grand total to date is £2,889.33.
 
 ## Is It Worth It? Am I Worth It?
 
