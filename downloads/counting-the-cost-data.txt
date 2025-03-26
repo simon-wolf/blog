@@ -1,0 +1,16 @@
+This is some text above the table.
+
+| Item | Cost | Category |
+| --- | --: | :-: |
+| Digital Scales | £22.94 | Weight Loss |
+| Zwift Ride and Kickr Core | £1,080.00 | Cycling |
+| Zwift Training Mat | £79.99 | Cycling |
+| Zwift Tablet Holder | £39.99 | Cycling |
+| Zwift Subscription | £179.99 | Cycling |
+| Running Shoes | £140.00 | Running |
+| Running Socks | £19.95 | Running |
+| Running Shorts* | £30.00 | Running |
+| Running Tops* | £30.00 | Running |
+| Sports Watch | £609.00 | Luxury |
+
+This is some text below the table.
