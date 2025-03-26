@@ -11,8 +11,11 @@ in
     name = "Simon Wolf's Blog";
     buildInputs = [env ruby];
 
-#    shellHook = ''
+    shellHook = ''
 #      exec ${env}/bin/jekyll serve --watch
-#    '';
+      alias preview="jekyll serve --future --drafts --watch"
+
+      echo "Run 'preview'"
+    '';
   }
 
