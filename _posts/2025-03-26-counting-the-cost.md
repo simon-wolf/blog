@@ -68,7 +68,7 @@ But if it is a three-column table why look for five fields? It's because the two
 
 ## Extracting The Data Elements
 
-Within each record we want to work with fields 2, 3, and 4 (1 and 5 are the empty 'outer' ones).
+Within each record I want to work with fields 2, 3, and 4 (1 and 5 are the empty 'outer' ones).
 
 Because of the way Markdown tables are defined, each field value has spaces around it:
 
@@ -76,7 +76,7 @@ Because of the way Markdown tables are defined, each field value has spaces arou
 " Digital Scales ", " £22.94 ", and " Weight Loss "
 ```
 
-Sadly AWK doesn't have a handy `trim` function but we can write our own which uses regex to find whitespace at the start of the string and remove it and then find whitespace at the end of the string and remove it:
+Sadly AWK doesn't have a handy `trim` function but I can write my own which uses regex to find whitespace at the start of the string and remove it and then find whitespace at the end of the string and remove it:
 
 ```awk
 function trimfield(value)
@@ -87,7 +87,7 @@ function trimfield(value)
 }
 ```
 
-Dealing with the currency amounts is a bit more complex because, as well as stripping the whitespace we need to remove the currency symbol and any thousands delimiters:
+Dealing with the currency amounts is a bit more complex because, as well as stripping the whitespace, I need to remove the currency symbol and any thousands delimiters:
 
 ```awk
 function stripcurrency(value)
@@ -100,9 +100,9 @@ function stripcurrency(value)
 
 > Note the use of `gsub` for removing the thousands delimiter. If the numbers were large enough there might be more than one delimiter to remove.
 
-This again uses regex to remove the characters and the function also passes the results to our `trimfield` function to remove the whitespace.
+This again uses regex to remove the characters and the function also passes the results to the `trimfield` function to remove the whitespace.
 
-This means that we can pass the value of each field into the `trimfield` or the `stripcurrency` functions to get 'clean' data back:
+This means that I can pass the value of each field into the `trimfield` or the `stripcurrency` functions to get 'clean' data back:
 
 ```awk
 "Digital Scales", "22.94", and "Weight Loss"
@@ -110,14 +110,14 @@ This means that we can pass the value of each field into the `trimfield` or the 
 
 ## Handling The Headers
 
-We don't want to include the first two table rows in our scan:
+I don't want to include the first two table rows in the scan:
 
 ```markdown
 | Item | Cost | Category |
 | --- | --: | :-: |
 ```
 
-The easiest way to do this is to check if field 3 (the Cost column) is a number or not. If it is not then we can ignore the record:
+The easiest way to do this is to check if field 3 (the Cost column) is a number or not. If it is not then I can ignore the record:
 
 ```awk
 itemvalue = stripcurrency($3)
@@ -127,13 +127,13 @@ if (itemvalue+0 != 0) {
 }
 ```
 
-> $3 is AWK's way of referencing field 3 so we pass the value of field 3 (the Cost column) into the `stripcurrency` function and store it in a variable called `itemvalue`.
+> $3 is AWK's way of referencing field 3 so I pass the value of field 3 (the Cost column) into the `stripcurrency` function and store it in a variable called `itemvalue`.
 
-If we add zero to a number we get the original number. But if we add zero to something which is not a number we get `0`. We can therefore see if the field value is a number because it would be non-zero.
+If I add zero to a number I get the original number. But if I add zero to something which is not a number I get `0`. I can therefore see if the field value is a number because it would be non-zero.
 
-> Obviously if the number is zero then adding zero returns zero but then there is nothing to increment our totals in that case so it is a non-issue.
+> Obviously if the number is zero then adding zero returns zero but then there is nothing to increment the totals in that case so it is a non-issue.
 
-So we now have a way to loop through the file, find lines which are part of the Markdown table, extract the contents into usable values and test if the line should be used in our totals:
+So I now have a way to loop through the file, find lines which are part of the Markdown table, extract the contents into usable values and test if the line should be used in the totals:
 
 ```awk
 if (NF == 5) {
@@ -149,7 +149,7 @@ if (NF == 5) {
 
 ## Grouping By The Category And Summing The Total
 
-We use two variables, `arr` and `sum` to store an array of category totals and the overall total.
+I use two variables, `arr` and `sum` to store an array of category totals and the overall total.
 
 The implementation is pretty simple:
 
@@ -162,14 +162,14 @@ sum += itemvalue;
 
 ## Showing The Results
 
-To show the results we loop through the array and how each element and its value (formatted to two decimal places):
+To show the results I loop through the array and how each element and its value (formatted to two decimal places):
 
 ```awk
 for (a in arr)
     printf "%s: £%'.2f\n", a, arr[a]
 ```
 
-And then we show the grand total:
+And then I show the grand total:
 
 ```awk
 printf "Grand Total: £%'.2f\n", sum
