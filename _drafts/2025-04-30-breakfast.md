@@ -8,9 +8,9 @@ I very rarely eat breakfast. I might if I am in a hotel but then it has tended t
 
 ## The Most Important Meal?
 
-The perceived wisdom (I'm basing this on various articles but the two most pertinent are from [WebMD](https://www.webmd.com/food-recipes/breakfast-lose-weight) and the [BBC](https://www.bbc.co.uk/future/article/20181126-is-breakfast-good-for-your-health)) is that breakfast is the most important meal of the day. Eating breakfast kick-starts your metabolism and improves your energy levels and ability to focus. It can help lower levels of bad LDL cholestrol, and lower the chances of getting diabetes, heart disease, and being overweight (presumably as long as you are not eating a Full English every day that is).
+The perceived wisdom (I'm basing this on various articles but the two most pertinent are from [WebMD](https://www.webmd.com/food-recipes/breakfast-lose-weight) and the [BBC](https://www.bbc.co.uk/future/article/20181126-is-breakfast-good-for-your-health)) is that breakfast is the most important meal of the day. Eating breakfast kick-starts your metabolism and improves your energy levels and ability to focus. It can help lower levels of bad LDL cholesterol, and lower the chances of getting diabetes, heart disease, and being overweight (presumably as long as you are not eating a Full English every day that is).
 
-Eating breakfast is meant to help the body's rythm of fasting and eating, restore blood sugar levels and generally kick-start you for the day. When you sleep your body uses energy stores for growth and repair so breakfast helps replenish protein and calcium used throughout the night. Not eating breakfast can starve your body and may lead to over-eating later in the day.
+Eating breakfast is meant to help the body's rhythm of fasting and eating, restore blood sugar levels and generally kick-start you for the day. When you sleep your body uses energy stores for growth and repair so breakfast helps replenish protein and calcium used throughout the night. Not eating breakfast can starve your body and may lead to over-eating later in the day.
 
 But the flip-side of this is that the sugar content of cereal (the most popular breakfast) is not good and the food industry's involvement in research around the benefits of breakfast might not be producing impartial reports into the benefits.
 
@@ -38,8 +38,9 @@ The next morning it looked a lot better. The raspberries has thawed and largely 
 
 Still not sure about whether I should heat it up or not, with some trepidation, I took an initial mouthful. And it was really delicious. Millions of people were not wrong!
 
-After eating I felt completely full and, even for someone used to large portion sizes, it felt like I'd eaten a lot. ...
+After eating I felt completely full and, even for someone used to large portion sizes, it felt like I'd eaten a lot. By lunchtime I wasn't particularly hungry and yet I'd had a morning run (part of my Couch to 5K plan) and been pretty active and definitely more than I would have been on a normal workday (my first breakfast was on Good Friday). 
 
+First impressions were very positive.
 
 ## One-Off Or A Real Change?
 
