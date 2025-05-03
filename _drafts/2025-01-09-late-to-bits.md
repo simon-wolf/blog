@@ -4,7 +4,7 @@ title: Late To Bits
 categories: miscellaneous
 ---
 
-Confession time... I've been a software devloper for 30 years and I've never had to dig into bits and bytes until very recently when I needed to be able to parse hex-encoded binary data. I've learnt quite a lot during the process and I've decided to write some of it down so that if I ever need to do so again I have some notes to refer back to.
+Confession time... I've been a software developer for 30 years and I've never had to dig into bits and bytes until very recently when I needed to be able to parse hex-encoded binary data. I've learnt quite a lot during the process and I've decided to write some of it down so that if I ever need to do so again I have some notes to refer back to.
 
 ## Back To School
 
@@ -119,7 +119,7 @@ This is called a 16-bit number because, in total, it takes 16 bits to store it.
 
 The hazard is that bytes can be ordered from left-to-right or from right-to-left. In the example above the bytes are big-endian (BE) and they go from right-to-left. If the two bytes were stored as 01111000 00000010 then they would be little-endian (LE) and they go from left to right. Note that it is only the bytes themselves that change order; the bits within the byte are always right-to-left. Knowing the byte order is very important or our 632 suddenly becomes 30,722!
 
-## Hexidecimal Numbers
+## Hexadecimal Numbers
 
 If you need to talk about the value of bytes, reading out ones and zeros is not hugely practical. You can refer to the value of each byte (120 and 2 for the value 632 as big-endian bytes) but it is also common to use the hex values instead and hex is a common binary format for transmitting data too. In hex, the big-endian version of 632 is 02 78.
 
@@ -168,7 +168,7 @@ so it needs to be stored in more bits and therefore more bytes:
 
 
 
-A 16-bit number adds another eight colums for 256s, 512s, 1024s, 2048s, 4096s, 8192s, 16384s, and 32768s and can therefore range from 0000000000000000 to 1111111111111111 or 0 to 65,535.
+A 16-bit number adds another eight columns for 256s, 512s, 1024s, 2048s, 4096s, 8192s, 16384s, and 32768s and can therefore range from 0000000000000000 to 1111111111111111 or 0 to 65,535.
 
 > Note that whilst w
 
@@ -201,7 +201,7 @@ You might also have heard about 8-bit, 16-bit, 32-bit and 64-bit computers and s
 
 An 8-bit number uses the eight columns we used above (1s to 128s) and can therefore range from 00000000 to 11111111 or, in base 10, 0 to 255.
 
-A 16-bit number adds another eight colums for 256s, 512s, 1024s, 2048s, 4096s, 8192s, 16384s, and 32768s and can therefore range from 0000000000000000 to 1111111111111111 or 0 to 65,535.
+A 16-bit number adds another eight columns for 256s, 512s, 1024s, 2048s, 4096s, 8192s, 16384s, and 32768s and can therefore range from 0000000000000000 to 1111111111111111 or 0 to 65,535.
 
 > Note that whilst w
 
