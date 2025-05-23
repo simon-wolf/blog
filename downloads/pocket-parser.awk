@@ -10,8 +10,6 @@
 
 {
     if (NR > 1) {
-        title = $1
-        url = $2
         formatted_date = strftime("%Y-%m-%d at %H:%M:%S", $3)
 
         if ($4 == "") {
@@ -20,7 +18,7 @@
             category = toupper(substr($4,1,1)) tolower(substr($4,2))
         }
 
-        arr[category]=arr[category]"* ["title"]("url") on "formatted_date"\n"
+        arr[category] = arr[category] "* [" $1 "](" $2 ") on " formatted_date "\n"
     }
 }
 END {
