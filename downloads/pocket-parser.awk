@@ -8,18 +8,16 @@
 # The script can be run via a command such as:
 # awk --csv -f pocket_parser.awk part_000000.csv > pocket.md
 
-{
-    if (NR > 1) {
-        formatted_date = strftime("%Y-%m-%d at %H:%M:%S", $3)
+NR > 1 {
+    formatted_date = strftime("%Y-%m-%d at %H:%M:%S", $3)
 
-        if ($4 == "") {
-            category = "Undefined"
-        } else {
-            category = toupper(substr($4,1,1)) tolower(substr($4,2))
-        }
-
-        arr[category] = arr[category] "* [" $1 "](" $2 ") on " formatted_date "\n"
+    if ($4 == "") {
+        category = "Undefined"
+    } else {
+        category = toupper(substr($4,1,1)) tolower(substr($4,2))
     }
+
+    arr[category] = arr[category] "* [" $1 "](" $2 ") on " formatted_date "\n"
 }
 END {
     for (a in arr)

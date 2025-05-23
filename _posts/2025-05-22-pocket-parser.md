@@ -50,6 +50,10 @@ Parsing a CSV file is now as easy as invoking AWK with either the `-k` or `--csv
 
 ## Skipping The First Line
 
+### The `if` Block
+
+> The initial version of the blog post wrapped everything in an `if` block:
+
 The first line of the file can be skipped by only parsing lines where the record (line) number, NR, is greater than one:
 
 ```awk
@@ -60,17 +64,35 @@ The first line of the file can be skipped by only parsing lines where the record
 }
 ```
 
+### Using Patterns
+
+[Lke](https://social.sdf.org/@lke) reached out to me via [Mastodon](https://social.sgawolf.com) to ask why I had used an `if` block rather than using patterns which is arguable a saner approach and it allows me to show off another AWK feature.
+
+Patterns allow you to define a 'rule' and if the conditions of the rule are met then the code in the block following it is applied.
+
+As a contrived example, to print "First Line" when the first line of the file is parsed and print "Not The First Line" for all of the other lines, the following would work:
+
+```awk
+NR == 1 { print("First Line") }
+NR > 1 { print("Not The First Line") }
+```
+
+For this job I am only interested in everything but the first line:
+
+```awk
+NR > 1 {
+    ...
+}
+```
+
 ## Formatting The Date
 
 The date and time when the link was originally saved is stored in the third (`$3`) field and AWK has a [`strftime`](https://www.man7.org/linux/man-pages/man3/strftime.3.html) function which allows UNIX timestamps to be formatted into a string value. I wanted to use a format so that dates and times would be formatted as `2025-05-22 at 15:37:04`:
 
 ```awk
-{
-    if (NR > 1) {
-        title = $1
-        url = $2
-        formatted_date = strftime("%Y-%m-%d at %H:%M:%S", $3)
-        ...
+NR > 1 {
+    formatted_date = strftime("%Y-%m-%d at %H:%M:%S", $3)
+    ...
 ```
 
 ## Fixing The Category Name
@@ -84,15 +106,14 @@ If there is a category name then I can combine the `toupper` and `tolower` funct
 `substr($4,2)` gets the second character onwards from the `$4` field. `tolower` will then convert it to lowercase.
 
 ```awk
-{
-    if (NR > 1) {
-        ...
-        if ($4 == "") {
-            category = "Undefined"
-        } else {
-            category = toupper(substr($4,1,1)) tolower(substr($4,2))
-        }
-        ...
+NR > 1 {
+    ...
+    if ($4 == "") {
+        category = "Undefined"
+    } else {
+        category = toupper(substr($4,1,1)) tolower(substr($4,2))
+    }
+    ...
 ```
 
 > This might be very specific to how I used Pocket with single category names and them being all lowercase.
@@ -273,18 +294,16 @@ The end result would be:
 ## The Complete Script
 
 ```awk
-{
-    if (NR > 1) {
-        formatted_date = strftime("%Y-%m-%d at %H:%M:%S", $3)
+NR > 1 {
+    formatted_date = strftime("%Y-%m-%d at %H:%M:%S", $3)
 
-        if ($4 == "") {
-            category = "Undefined"
-        } else {
-            category = toupper(substr($4,1,1)) tolower(substr($4,2))
-        }
-
-        arr[category] = arr[category] "* [" $1 "](" $2 ") on " formatted_date "\n"
+    if ($4 == "") {
+        category = "Undefined"
+    } else {
+        category = toupper(substr($4,1,1)) tolower(substr($4,2))
     }
+
+    arr[category] = arr[category] "* [" $1 "](" $2 ") on " formatted_date "\n"
 }
 END {
     for (a in arr)
