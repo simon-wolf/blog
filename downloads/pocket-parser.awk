@@ -13,7 +13,6 @@
         title = $1
         url = $2
         formatted_date = strftime("%Y-%m-%d at %H:%M:%S", $3)
-        category = toupper(substr($4,1,1))
 
         if ($4 == "") {
             category = "Undefined"
@@ -26,6 +25,5 @@
 }
 END {
     for (a in arr)
-        # printf "\n"%s"\n"%s"\n", a, arr[a]
         printf "# %s\n\n%s\n", a, arr[a]
 }
