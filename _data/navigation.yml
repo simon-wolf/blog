@@ -5,6 +5,8 @@ main:
     url: /
   - title: Categories
     url: /categories/
+  - title: Terms and Conditions
+    url: /terms_and_conditions/
   - title: License Agreement
     url: /license_agreement/
   - title: About

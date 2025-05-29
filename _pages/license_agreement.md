@@ -26,7 +26,7 @@ The license requires that you give credit to me, Simon Wolf, as the original aut
 
 ***Includes “Name of Code” code by Simon Wolf.***
 
-where “Name of Code” would obviously be replaced by the name of the specific source-code package you made use of. Where possible, please link the text “Simon Wolf” to [my blog](https://swwritings.com), or include the site’s URL ([https://swwritings.com](https://swwritings.com)).
+where “Name of Code” would obviously be replaced by the name of the specific source-code package you made use of. Where possible, please link the text “Simon Wolf” to [my blog](https://blog.sgawolf.com/), or include the site’s URL ([https://blog.sgawolf.com/](https://blog.sgawolf.com/)).
 
 ### Full Source Code License Text
 
