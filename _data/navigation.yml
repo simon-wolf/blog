@@ -5,9 +5,9 @@ main:
     url: /
   - title: Categories
     url: /categories/
-  - title: Terms and Conditions
-    url: /terms_and_conditions/
-  - title: License Agreement
-    url: /license_agreement/
+  - title: Projects
+    url: /projects/
+  - title: The Legal Stuff
+    url: /the_legal_stuff/
   - title: About
     url: /about/

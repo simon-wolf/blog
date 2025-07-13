@@ -1,10 +1,35 @@
 ---
-title: License Agreement
-permalink: /license_agreement/
+title: The Legal Stuff
+permalink: /the_legal_stuff/
 ---
 
-### Summary
+This page contains:
 
+1. The terms and conditions for users of (and visitors to) this site, and for automated agents, web crawlers or robots, and any other software programs which access this site's content.
+
+2. The license agreement for any source code I share via this site.
+
+It was last updated on 13 July 2025.
+
+---
+
+## Terms and Conditions
+
+The content of this site is intended for your personal, non-commercial use. All materials published or available here (including, but not limited to text, photographs, images, illustrations, designs, audio clips, video clips, metadata, data, or compilations, are protected by copyright, and owned or controlled by Simon Wolf unless explicitly indicated otherwise.
+
+Simon Wolf also owns copyright in the selection, coordination, compilation, and enhancement of such content. You shall abide by all additional copyright notices, information, or restrictions contained in any content accessed through the site.
+
+Non-commercial use does not include the use of content without prior written consent from Simon Wolf in connection with:
+
+1. The development of any software program, including, but not limited to, training a machine learning (ML) or artificial intelligence (AI) or Large Language Model (LLM) system; or:
+
+2. Providing archived or cached data sets containing content to another person or entity.
+
+If you’ve got any questions about the license, or if you want to discuss any special requirements or licensing, feel free get in touch.
+
+## Source Code License Agreement
+
+### Summary
 This is the license agreement for my source code. Fear not, you’re allowed to use it in your own products, commercial, open-source or anything else.
 
 The full license text is further down this page, and you should only use the source code if you agree to the terms in that text. However, here is a quick summary, albeit non-authoritative, interpretation of the license which will hopefully answer any questions you have.
