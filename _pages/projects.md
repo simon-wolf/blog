@@ -20,6 +20,12 @@ permalink: /projects/
 
 **Background:** I write code for a living and like a lot of other developers I use [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code). It's good but I have a weird desire to use Neovim although it is a long, slow learning curve.
 
+### [Emacs](https://www.gnu.org/software/emacs/)
+
+**June 2025:** I've just started to look at Emacs and am largely using [Mastering Emacs](https://www.masteringemacs.org/) as my initial guide.
+
+**Background:** Exactly like Neovim above, I want to explore Emacs as an alternative to Visual Studio Code. I like Neovim but it feels like it is a text editor with extras bolted on to allow you to create your own integrated development environment and I wonder if Emacs will be more cohesive.
+
 ### [AWK](https://en.wikipedia.org/wiki/AWK) For Data Parsing
 
 **May 2025:** Used AWK to process a CSV data export from Pocket and generate a list of Markdown links ([blog post](https://blog.sgawolf.com/post/2025-05-22-pocket-parser)).
