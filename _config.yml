@@ -8,9 +8,9 @@ title			: "Simon Wolf's Blog"
 #subtitle		: # site tagline that appears below site title in masthead
 #name			: "Simon Wolf"
 #description		: "Sometimes random, occasionally focused, rarely proof-read."
-#url			: "https://blog.sgawolf.com"
-#baseurl			: ""
-#repository		: "simon-wolf/blog"
+url			: "https://blog.sgawolf.com"
+baseurl			: ""
+repository		: "simon-wolf/blog"
 #words_per_minute	: 200
 #atom_feed:
 #  path			: "/feed.xml"
