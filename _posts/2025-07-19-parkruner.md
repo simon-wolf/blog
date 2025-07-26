@@ -1,7 +1,8 @@
 ---
 date: 2025-07-19 10:00
 title: Parkrunner
-categories: health
+categories: [personal development]
+tags: [running]
 ---
 
 Five week ago I started drafting a blog post but never progressed beyond the opening paragraph. Part of that was due to [my own progress with exercise stalling](2025-07-18-getting-back-on-track) but with things getting back on track it's time to finish that post and tick off one of my fitness goals.

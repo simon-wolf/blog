@@ -1,7 +1,8 @@
 ---
 date: 2025-01-03 14:00
 title: A Month With A Supernote
-categories: supernote
+categories: [technology]
+tags: [supernote]
 ---
 
 A month ago I received my [Supernote A6 X2 Nomad](https://supernote.com/pages/supernote-nomad). [My first impressions](https://blog.sgawolf.com/post/2024-12-08-supernote-first-impressions) were very good and I thought it might be a good idea to write an update one month on.

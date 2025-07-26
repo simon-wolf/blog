@@ -1,4 +1,5 @@
 ---
+layout: page
 title: About
 permalink: /about/
 ---
@@ -9,4 +10,4 @@ I run a family business, [Mindme](https://mindme.care), with my sister and I liv
 
 You can find me on Mastodon as [@simon@social.sgawolf.com](https://social.sgawolf.com/@simon).
 
-You can find my open-source code on [GitHub](https://github.com/simon-wolf) but if you use any of my source code in your projects then please review the [license agreement](../license_agreement) first.
+You can find my open-source code on [GitHub](https://github.com/simon-wolf) but if you use any of my source code in your projects then please review the [license agreement](../the_legal_stuff) first.

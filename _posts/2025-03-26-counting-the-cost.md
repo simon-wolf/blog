@@ -1,7 +1,8 @@
 ---
 date: 2025-03-26 18:00
 title: Counting The Cost
-categories: linux
+categories: [programming]
+tags: [awk]
 ---
 
 In my [previous blog post](2025-03-26-how-much-is-my-health-worth) I included a table of purchases related to some lifestyle changes I have been making. As a typical software developer it would have been far too easy to use a calculator to add the amounts up. It would have been too easy to paste the data into a spreadsheet. Instead I spent a ridiculous amount of time tinkering with [AWK](https://en.wikipedia.org/wiki/AWK). And then, very proud of myself, I [posted about it](https://social.sgawolf.com/@simon/114225914932716482) on Mastodon, saying that the two hours were worth it because I could write a blog post about it:

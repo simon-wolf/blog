@@ -1,7 +1,8 @@
 ---
 date: 2025-04-10 22:00
 title: Couch To... Somewhere...?
-categories: health
+categories: [personal development]
+tags: [running]
 ---
 
 Two weeks ago I did something I've never done before. I voluntarily, for pleasure and exercise, went for a (kind of) run. I started [Couch To 5K](https://en.wikipedia.org/wiki/Couch_to_5K).

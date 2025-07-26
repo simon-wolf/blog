@@ -1,7 +1,8 @@
 ---
 date: 2012-06-15 10:15
 title: The Depressed Developer
-categories: health
+categories: [personal development]
+tags: [mental health]
 ---
 
 I've moved the conclusion from the end to the top. If you only have one minute, read this bit and ignore the rest.

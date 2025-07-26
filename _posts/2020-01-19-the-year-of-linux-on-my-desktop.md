@@ -1,12 +1,13 @@
 ---
 date: 2020-01-19 18:00
 title: The Year of Linux on my Desktop?
-categories: linux
+categories: [computing]
+tags: [linux]
 ---
 
 ## Introduction
 
-Last week I decided to scratch an itch and tried using Linux for the first time in about 15 years. I wanted to see if would be possible to do my work on it now that [I no longer absolutely needed to use macOS](https://www.swwritings.com/post/2019-05-02-keep-moving).
+Last week I decided to scratch an itch and tried using Linux for the first time in about 15 years. I wanted to see if would be possible to do my work on it now that [I no longer absolutely needed to use macOS](2019-05-02-keep-moving).
 
 ## The Hardware
 

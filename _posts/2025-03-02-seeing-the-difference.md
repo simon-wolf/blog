@@ -1,7 +1,8 @@
 ---
 date: 2025-03-02 10:00
 title: Seeing The Difference
-categories: health
+categories: [personal development]
+tags: [food, exercise, zwift]
 ---
 
 It has been just over four weeks since I [first wrote](2025-02-08-changing-my-lifestyle) about the changes I was making to my lifestyle and so I thought I would share how things have been going.

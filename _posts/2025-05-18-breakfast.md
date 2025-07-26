@@ -1,7 +1,8 @@
 ---
 date: 2025-05-18 18:00
 title: Breakfast
-categories: health
+categories: [personal development]
+tags: [food]
 ---
 
 I very rarely eat breakfast. I might if I am in a hotel but then it has tended to be a [Full English](https://en.wikipedia.org/wiki/Full_breakfast) just because it feels like a treat. But I never really feel hungry first thing so I spend the morning drinking a few cups of (terrible, instant) coffee and eat my first meal at around 1pm. But breakfast is meant to be the most important meal of the day so I've been trying something new for the last four weeks.

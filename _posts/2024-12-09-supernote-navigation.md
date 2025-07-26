@@ -1,7 +1,8 @@
 ---
 date: 2024-12-09 20:00
 title: Supernote Navigation
-categories: supernote
+categories: [technology]
+tags: [supernote]
 ---
 
 Continuing [my exploration](https://blog.sgawolf.com/post/2024-12-08-supernote-first-impressions) of the Supernote Nomad, I spent some time last night and today playing with headings, keywords, stars, links, Favorites, Quick Access, and Digests. All of them allow you to move between and within your notes and they offer some really clever, useful functionality which underlines the fact that Ratta abe building a digital notebook, not just an e-ink reader with basic note-taking functionality. The last two features I talk about are for PDF and epub documents but because there is a lot of overlap in how you work with notes, it is worth mentioning them here too.

@@ -1,7 +1,8 @@
 ---
 date: 2025-04-25 18:00
 title: It's Not A Journey
-categories: health
+categories: [personal development]
+tags: [commentary]
 ---
 
 I sat down to start drafting a blog post about the personal changes I've made over the last few months and realised I've been thinking about it, and calling it, a journey. It's not.

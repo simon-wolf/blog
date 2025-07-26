@@ -1,7 +1,8 @@
 ---
 date: 2025-05-02 12:00
 title: Vim Buffers, Windows, and Tabs
-categories: linux
+categories: [computing]
+tags: [vim]
 ---
 
 Most of the time I use Vim it is in a very basic way... I open a file (or create a new one) from a terminal prompt, edit it, and then close Vim. If I need to edit another file I'll open it from the terminal and so on. I'm not staying in Vim and working with different files and it has taken me a little while to get my head around this.

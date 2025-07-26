@@ -1,7 +1,8 @@
 ---
 date: 2022-12-14 12:00
 title: My Git Notes
-categories: miscellaneous
+categories: [programming]
+tags: [git]
 ---
 
 This blog post is a personal reference in that I wanted to document the [Git](https://git-scm.com/) commands I use the most now that I use the command line more and more. I am publishing it as a blog post so that I can refer back to it quickly and easily. It is not a complete guide and is likely to be updated regularly.

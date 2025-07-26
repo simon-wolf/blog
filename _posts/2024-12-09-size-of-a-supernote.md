@@ -1,7 +1,8 @@
 ---
 date: 2024-12-09 21:00
 title: Size of a Supernote
-categories: supernote
+categories: [technology]
+tags: [supernote]
 ---
 
 I've been asked about the size of the [Supernote](https://supernote.com/products/supernote-nomad) and the screen area by a couple of people so here are some photos which might help.

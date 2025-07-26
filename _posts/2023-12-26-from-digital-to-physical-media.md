@@ -1,7 +1,8 @@
 ---
 date: 2023-12-26 08:00
 title: From Digital To Physical Media
-categories: miscellaneous
+categories: [personal development]
+tags: [commentary]
 ---
 
 This morning the YouTube algorithm suggested a video called ["Wait, what happened to HMV?"](https://youtu.be/5HjX6RtOoBY) to me. It covered the decline and then revival of the company and ended wondering if it would survive with people buying physical albums on CD or vinyl or whether streaming or digital purchases would 'win'.

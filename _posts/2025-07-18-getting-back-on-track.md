@@ -1,7 +1,8 @@
 ---
 date: 2025-07-18 12:00
 title: Getting Back On Track
-categories: health
+categories: [personal development]
+tags: [news]
 ---
 
 At the start of June [I wrote about a knee injury](2025-06-05-kneeded-to-rest) and ended on a semi-positive note:

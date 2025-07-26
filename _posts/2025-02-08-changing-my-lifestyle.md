@@ -1,7 +1,8 @@
 ---
 date: 2025-02-08 12:00
 title: Changing My Lifestyle
-categories: health
+categories: [personal development]
+tags: [physical health, food, exercise, news]
 ---
 
 ## Introduction

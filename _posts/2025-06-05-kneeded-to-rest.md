@@ -1,7 +1,8 @@
 ---
 date: 2025-06-05 12:00
 title: Kneeded To Rest
-categories: health
+categories: [personal development]
+tags: [news]
 ---
 
 Last week I finally over-did things and injured myself and, more specifically, my right knee. It was, inevitably, entirely my fault and something I could have avoided if I'd swallowed my pride.

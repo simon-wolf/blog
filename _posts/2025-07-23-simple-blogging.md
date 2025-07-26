@@ -1,7 +1,8 @@
 ---
 date: 2025-07-23 12:00
 title: Simple Blogging
-categories: miscellaneous
+categories: [computing]
+tags: [software, commentary]
 ---
 
 I was recently asked how I host my blog. The answer is that I use a static website generator called [Jekyll](https://jekyllrb.com/) and the site it generates is hosted on [GitHub Pages](https://pages.github.com/) (GitHub is a repository where developers can store and share their code). This is a bit of a geeky solution however and setting it all up is not something I would recommend to someone who is not pretty tech-savvy.

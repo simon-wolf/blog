@@ -1,7 +1,8 @@
 ---
 date: 2018-08-11 12:12
 title: Grokking Elixir
-categories: elixir
+categories: [programming]
+tags: [elixir]
 ---
 
 ## Introduction

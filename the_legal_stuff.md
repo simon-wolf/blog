@@ -1,4 +1,5 @@
 ---
+layout: page
 title: The Legal Stuff
 permalink: /the_legal_stuff/
 ---

@@ -1,7 +1,8 @@
 ---
 date: 2025-03-26 12:00
 title: How Much Is My Health Worth?
-categories: health
+categories: [personal development]
+tags: [commentary]
 ---
 
 At the end of my [last blog post](2025-03-02-seeing-the-difference) I said that I would talk about the costs involved in the fitness journey I am going on. Before I even look at the figures properly I know that it has not been cheap and that I have more expenses ahead.

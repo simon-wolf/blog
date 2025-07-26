@@ -1,7 +1,8 @@
 ---
 date: 2024-12-08 18:00
 title: My Supernote Notes
-categories: supernote
+categories: [technology]
+tags: [supernote]
 ---
 
 These notes are my personal notes about using the [Supernote A6 X2 Nomad](https://supernote.com/products/supernote-nomad).

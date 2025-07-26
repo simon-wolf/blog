@@ -1,7 +1,8 @@
 ---
 date: 2023-05-20 08:00
 title: 15 Years of Twitter
-categories: miscellaneous
+categories: [computing]
+tags: [social media]
 ---
 
 Today marks 15 years since I signed up for Twitter according to a notification they pushed to me.

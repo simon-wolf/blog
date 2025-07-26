@@ -1,7 +1,8 @@
 ---
 date: 2024-12-08 14:00
 title: My Supernote First Impressions
-categories: supernote
+categories: [technology]
+tags: [supernote]
 ---
 
 A couple of days ago my [Supernote A6 X2 Nomad](https://supernote.com/products/supernote-nomad) arrived.

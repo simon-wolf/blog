@@ -1,12 +1,13 @@
 ---
 date: 2020-09-13 16:00
 title: Choosing A New Bike
-categories: health
+categories: [personal development]
+tags: [news, physical health, cycling]
 ---
 
-After realising that [my weight and fitness](https://www.swwritings.com/post/2020-09-13-weight-and-health) were in a bad way again I turned my attention to researching bicycles.
+After realising that [my weight and fitness](2020-09-13-weight-and-health) were in a bad way again I turned my attention to researching bicycles.
 
-I have had [a varied history](https://www.swwritings.com/post/2020-09-13-my-bicycle-history) of bike ownership. Some I have loved. Some I have disliked. Some I have wanted to love but they were uncomfortable because they were too big. One I should have hated but loved anyway.
+I have had [a varied history](2020-09-13-my-bicycle-history) of bike ownership. Some I have loved. Some I have disliked. Some I have wanted to love but they were uncomfortable because they were too big. One I should have hated but loved anyway.
 
 The main mistake I have previously made was in buying bikes which were too large for me and which then ended up being uncomfortable and less fun to ride than they could and should have been.
 
@@ -26,7 +27,7 @@ Speaking of local bike shops, AVC is a great one. As well as offering me good ad
 
 And so my new bike is a Tern HSD and I love it. I've cycled more and further in the last ten days than I have in the previous nine months and I hope that not only will I continue to cycle but that I will also fulfil my plan of replacing the car with it for some shopping trips.
 
-<img src="https://blog.sgawolf.com/images/2020-09-13-choosing-a-new-bike-01.jpeg" alt="My Tern HSD S+" width="100%" />
+<img src="images/2020-09-13-choosing-a-new-bike-01.jpeg" alt="My Tern HSD S+" width="100%" />
 
 ## Additional Notes
 
