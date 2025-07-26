@@ -55,4 +55,4 @@ In 2017 a friend in the village let me have a go on his electric bike. This was 
 
 ## The Tern GSD
 
-My next bike is a [Tern HSD](https://www.ternbicycles.com/bikes/471/hsd). You can read about why in my post about [choosing a bicycle](2020-09-13-choosing-a-new-bike).
+My next bike is a [Tern HSD](https://www.ternbicycles.com/bikes/471/hsd). You can read about why in my post about [choosing a bicycle]({% post_url 2020-09-13-choosing-a-new-bike %}).

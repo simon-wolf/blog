@@ -13,4 +13,4 @@ A little over two years ago I hit a personal worst weight of 117kg and managed t
 
 I am going to try a two-pronged approach this time. As well as being more careful about what I eat I need to improve my fitness and then keep myself fit. And of course, exercise will help with the weight loss and management too.
 
-I, like quite a few people in the UK and probably around the world, am getting back on a bike. You can read about that in my post about [choosing a bicycle](2020-09-13-choosing-a-new-bike).
+I, like quite a few people in the UK and probably around the world, am getting back on a bike. You can read about that in my post about [choosing a bicycle]({% post_url 2020-09-13-choosing-a-new-bike %}).

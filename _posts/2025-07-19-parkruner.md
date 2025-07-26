@@ -5,13 +5,13 @@ categories: [personal development]
 tags: [running]
 ---
 
-Five week ago I started drafting a blog post but never progressed beyond the opening paragraph. Part of that was due to [my own progress with exercise stalling](2025-07-18-getting-back-on-track) but with things getting back on track it's time to finish that post and tick off one of my fitness goals.
+Five week ago I started drafting a blog post but never progressed beyond the opening paragraph. Part of that was due to [my own progress with exercise stalling]({% post_url 2025-07-18-getting-back-on-track %}) but with things getting back on track it's time to finish that post and tick off one of my fitness goals.
 
-After getting over my [knee injury](2025-06-05-kneeded-to-rest), back at the star of June I finally started running again. By mid-June I finished the Couch to 5K program, albeit with the three runs from the final week being done over two weeks. Perhaps like a lot of people I finished by being able to run non-stop for 30 minutes rather than managing to run a full 5K distance in that time.
+After getting over my [knee injury]({% post_url 2025-06-05-kneeded-to-rest %}), back at the star of June I finally started running again. By mid-June I finished the Couch to 5K program, albeit with the three runs from the final week being done over two weeks. Perhaps like a lot of people I finished by being able to run non-stop for 30 minutes rather than managing to run a full 5K distance in that time.
 
 I then discovered that there are some extra sessions added on to the plan, the first of which is a 35 minute run. With my running pace hovering around seven minutes per kilometre I completed that first 35 minute run and managed to hit 5K during it. Since then I've done a couple more 35 minute runs where I achieve 5K but I had slipped out of the habit of running three times a week.
 
-I've also been meaning to go and do my first Parkrun which is something I said was a goal in my [first post about running](2025-04-10-couch-to-somewhere) but I procrastinated and completely failed to actually get up early enough and go and do one. Well today I changed that.
+I've also been meaning to go and do my first Parkrun which is something I said was a goal in my [first post about running]({% post_url 2025-04-10-couch-to-somewhere %}) but I procrastinated and completely failed to actually get up early enough and go and do one. Well today I changed that.
 
 A few days ago a friend messaged me to say that her family were going to do the Shepton Mallet Parkrun today. A friend of theirs has breast cancer and today's run was focused on supporting her, [her fundraising efforts](https://www.justgiving.com/page/sarah-daffurn-2), and raising awareness about breast cancer. It was an obvious opportunity to finally go and take part and also to help support Sarah.
 

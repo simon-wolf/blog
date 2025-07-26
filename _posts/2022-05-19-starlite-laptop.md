@@ -9,7 +9,7 @@ I do pretty much all of my development work on my desktop computer but I still n
 
 In April 2018, when I was still doing macOS development, I bought a 12" MacBook. It was very small and light and definitely powerful enough (I bought the top-of-the-line model which cost £2,000). The only real down-side to it was the terrible keyboard that Apple was making back then.
 
-Two years later [I had started using Linux](2020-01-19-the-year-of-linux-on-my-desktop) but I was working for [Sketch](https://www.sketch.com/) and still needed a Mac computer to occasionally run Sketch itself even though I was now a backend developer writing [Elixir](https://elixir-lang.org/) code. However I wanted to play around with Linux distributions and after some research came across [StarLabs](https://starlabs.systems) and their [StarLite laptop](https://starlabs.systems/pages/starlite).
+Two years later [I had started using Linux]({% post_url 2020-01-19-the-year-of-linux-on-my-desktop %}) but I was working for [Sketch](https://www.sketch.com/) and still needed a Mac computer to occasionally run Sketch itself even though I was now a backend developer writing [Elixir](https://elixir-lang.org/) code. However I wanted to play around with Linux distributions and after some research came across [StarLabs](https://starlabs.systems) and their [StarLite laptop](https://starlabs.systems/pages/starlite).
 
 Finding companies who sell laptops with Linux is not terribly easy and in a post-Brexit UK where import duties from Europe suddenly make imports noticeably more expensive it becomes even harder. StarLabs would have been a great discovery as just a UK-based supplier of Linux laptops but they are also very helpful and friendly which makes it a joy to buy from them and support them.
 
