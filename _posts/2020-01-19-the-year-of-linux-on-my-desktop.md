@@ -7,7 +7,7 @@ tags: [linux]
 
 ## Introduction
 
-Last week I decided to scratch an itch and tried using Linux for the first time in about 15 years. I wanted to see if would be possible to do my work on it now that [I no longer absolutely needed to use macOS](2019-05-02-keep-moving).
+Last week I decided to scratch an itch and tried using Linux for the first time in about 15 years. I wanted to see if would be possible to do my work on it now that [I no longer absolutely needed to use macOS]({% post_url 2019-05-02-keep-moving %}).
 
 ## The Hardware
 

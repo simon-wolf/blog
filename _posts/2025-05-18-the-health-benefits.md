@@ -5,7 +5,7 @@ categories: [personal development]
 tags: [commentary]
 ---
 
-Before I started [changing my lifestyle](2025-02-08-changing-my-lifestyle) I had heard that weight-loss and exercise are meant to help increase your energy levels and help improve your mental health. It's now been four months since I changed what I eat and almost as long since I started doing regular exercise. I've lost 15 KG and am demonstrably fitter so I wanted to share how it has changed me and perhaps this is something I'll review again in a few more months.
+Before I started [changing my lifestyle]({% post_url 2025-02-08-changing-my-lifestyle %}) I had heard that weight-loss and exercise are meant to help increase your energy levels and help improve your mental health. It's now been four months since I changed what I eat and almost as long since I started doing regular exercise. I've lost 15 KG and am demonstrably fitter so I wanted to share how it has changed me and perhaps this is something I'll review again in a few more months.
 
 ## Feeling Old
 
@@ -45,7 +45,7 @@ After that slightly concerning bit about my view of myself I can be more positiv
 
 Sometimes during, and always after, taking some exercise I feel a sense of achievement and generally very positive (even if I am dripping in sweat, and feeling exhausted) which will be thanks to the [endorphins](https://en.wikipedia.org/wiki/Endorphins).
 
-Seeing my fitness improvements over time (such as the pace increase mentioned in [my last post](2025-05-16-i-run) where I declared myself to be a runner) gives me a great sense of achievement and satisfaction. I am very slowly creep up "rankings" of how my fitness compares to other people: Garmin Connect tells me, for example, that this month I have spent more time running than 63% of other male Garmin users in my age bracket.
+Seeing my fitness improvements over time (such as the pace increase mentioned in [my last post]({% post_url 2025-05-16-i-run %}) where I declared myself to be a runner) gives me a great sense of achievement and satisfaction. I am very slowly creep up "rankings" of how my fitness compares to other people: Garmin Connect tells me, for example, that this month I have spent more time running than 63% of other male Garmin users in my age bracket.
 
 Exercise is also helping with my work-life balance. I work for a company I co-own and work from home so the temptation for work to dominate my life is high and it has been a problem over the years. My stress levels can be high and I don't always cope well with the pressure. Over the last few months I have started to deliberately finish work each day at around 5pm and then go for a run or a bike ride. It gives me an 'off-switch' and a buffer between stopping work and starting my evening and it has been noticeably beneficial. I even sometimes go for a run at lunchtime if I've had an intense morning and need to clear my head. Introducing exercise into my daily routine to help me unwind and using it as a 'release valve' has been an incredible improvement to my mental health.
 

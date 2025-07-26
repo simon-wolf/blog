@@ -7,7 +7,7 @@ tags: [linux]
 
 ## Introduction
 
-One month ago [I wrote about trying Linux for work](2020-01-19-the-year-of-linux-on-my-desktop). A fair amount has happened since then so I thought I'd post a quick update.
+One month ago [I wrote about trying Linux for work]({% post_url 2020-01-19-the-year-of-linux-on-my-desktop %}). A fair amount has happened since then so I thought I'd post a quick update.
 
 ## The Hardware
 

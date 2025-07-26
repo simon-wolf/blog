@@ -5,7 +5,7 @@ categories: [personal development]
 tags: [food, exercise, zwift]
 ---
 
-It has been just over four weeks since I [first wrote](2025-02-08-changing-my-lifestyle) about the changes I was making to my lifestyle and so I thought I would share how things have been going.
+It has been just over four weeks since I [first wrote]({% post_url 2025-02-08-changing-my-lifestyle %}) about the changes I was making to my lifestyle and so I thought I would share how things have been going.
 
 ## Weight and Diet
 
@@ -27,7 +27,7 @@ All of my exercise so far has been indoor cycling on my Zwift Ride. Since gettin
 
 ### Fitness Programme
 
-I'm taking part in Zwift's Back to Fitness [training plan](https://www.zwift.com/uk/training-on-zwift) which consists of two training sessions per week for 12 weeks. It is based around my [FTP level](2025-02-11-the-meeping-ftp-test) so each session requires an appropriate level of effort and the sessions are always a challenge but never too much.
+I'm taking part in Zwift's Back to Fitness [training plan](https://www.zwift.com/uk/training-on-zwift) which consists of two training sessions per week for 12 weeks. It is based around my [FTP level]({% post_url 2025-02-11-the-meeping-ftp-test %}) so each session requires an appropriate level of effort and the sessions are always a challenge but never too much.
 
 It is also worth mentioning that Zwift allows you to do individual workouts. There have been a couple of times that I have wanted to do a more relaxed ride which focuses on my zone 2 heart rate so I have gone and picked an appropriate workout and have done them as one-off things rather than being part of a larger programme.
 

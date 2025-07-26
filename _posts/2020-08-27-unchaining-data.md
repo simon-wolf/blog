@@ -15,7 +15,7 @@ In plenty of other cases however it is not and planty of data can be stored in m
 
 ## Notes
 
-Nearly two years ago [I wrote about](2018-11-14-from-evernote-to-notes) moving from [Evernote](https://evernote.com/) to [Apple's Notes](https://en.wikipedia.org/wiki/Notes_(Apple)) and until I switched to Linux and realised that the move was going to stick I was very happy with Notes. However I now want something more flexible and ideally something where I won't have to migrate from one application to another. 
+Nearly two years ago [I wrote about]({% post_url 2018-11-14-from-evernote-to-notes %}) moving from [Evernote](https://evernote.com/) to [Apple's Notes](https://en.wikipedia.org/wiki/Notes_(Apple)) and until I switched to Linux and realised that the move was going to stick I was very happy with Notes. However I now want something more flexible and ideally something where I won't have to migrate from one application to another. 
 
 Talking of migrating, I have discovered that Notes' [AppleScript](https://en.wikipedia.org/wiki/AppleScript) support is broken in [macOS Catalina](https://www.apple.com/macos/catalina/) so I now have to manually 'export' almost 1,000 notes. On the plus-side, this does convince me that keeping notes as text-based files is the way to go.
 

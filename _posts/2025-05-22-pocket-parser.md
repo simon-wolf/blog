@@ -9,7 +9,7 @@ Earlier today I received an email telling me that Mozilla was [shutting down Poc
 
 They have a data export facility so I could get a copy of the data I had stored and, after downloading the file, I realised it was a very simple CSV file containing the page title, the URL, when it was saved, the category(s) assigned to it and the read state.
 
-Because it seemed oddly popular [last time I wrote about it](2025-03-26-counting-the-cost), I decided to parse the file in AWK and generate a simple Markdown file containing the links, grouped by the category.
+Because it seemed oddly popular [last time I wrote about it]({% post_url 2025-03-26-counting-the-cost %}), I decided to parse the file in AWK and generate a simple Markdown file containing the links, grouped by the category.
 
 ## The Output I Wanted
 
@@ -136,7 +136,7 @@ Now that the page title, URL, formatted date and category have been gathered I n
 In Markdown the links look like this:
 
 ```markdown
-* [A Page Title](https://page_url.html) on 2025-05-23 at 15:37:04
+* [A Page Title](https://post_url.html) on 2025-05-23 at 15:37:04
 ```
 
 In AWK, using field references and the `formatted_date` variable we created it looks like:

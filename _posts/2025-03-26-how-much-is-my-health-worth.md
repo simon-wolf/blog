@@ -5,7 +5,7 @@ categories: [personal development]
 tags: [commentary]
 ---
 
-At the end of my [last blog post](2025-03-02-seeing-the-difference) I said that I would talk about the costs involved in the fitness journey I am going on. Before I even look at the figures properly I know that it has not been cheap and that I have more expenses ahead.
+At the end of my [last blog post]({% post_url 2025-03-02-seeing-the-difference %}) I said that I would talk about the costs involved in the fitness journey I am going on. Before I even look at the figures properly I know that it has not been cheap and that I have more expenses ahead.
 
 There are cheaper (and more expensive) ways to do this sort of thing so do not consider the figures below to be definitive and please don't see them as a barrier to starting a similar journey yourself because a comfy pair of shoes will allow you to start walking and that can be the literal and metaphorical first step.
 

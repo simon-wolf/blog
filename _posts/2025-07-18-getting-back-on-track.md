@@ -5,7 +5,7 @@ categories: [personal development]
 tags: [news]
 ---
 
-At the start of June [I wrote about a knee injury](2025-06-05-kneeded-to-rest) and ended on a semi-positive note:
+At the start of June [I wrote about a knee injury]({% post_url 2025-06-05-kneeded-to-rest %}) and ended on a semi-positive note:
 
 >  It is possible that my sore knee during cycling is not (just) a bike fit issue and it could be a muscular imbalance or just a general weakness. I know that this needs attention (my squat attempts are pitiful) and I now need to find a gym or, perhaps better for a recluse like me, a personal trainer to give me an initial plan and then regularly review and evolve it.
 >

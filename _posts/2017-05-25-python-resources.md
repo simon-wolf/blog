@@ -41,7 +41,7 @@ I've not come across a vast amount here apart from [PyCon](http://www.pycon.org)
 ## Podcasts
 So far I've only listened to a couple of episodes from a single podcast. I don't have a huge amount of time to listen to them because I don't have a commute but I do try to make time for really good ones.
 
-[Talk Python To Me](https://talkpython.fm) caught my attention because it is still being produced and it has a good and varied back-catalogue of episodes (112 as I write this). The two episodes I've listened to so far have been very interesting and one, [Adding a full features Python environment to Visual Studio Code](https://talkpython.fm/episodes/show/101/adding-a-full-featured-python-environment-to-visual-studio-code) ties in with [my blog post about Visual Studio Code](2017-05-25-visual-studio-code-for-python) where the guest is Don Jayamanne who created the Python extension most people use.
+[Talk Python To Me](https://talkpython.fm) caught my attention because it is still being produced and it has a good and varied back-catalogue of episodes (112 as I write this). The two episodes I've listened to so far have been very interesting and one, [Adding a full features Python environment to Visual Studio Code](https://talkpython.fm/episodes/show/101/adding-a-full-featured-python-environment-to-visual-studio-code) ties in with [my blog post about Visual Studio Code]({% post_url 2017-05-25-visual-studio-code-for-python %}) where the guest is Don Jayamanne who created the Python extension most people use.
 
 ## Twitter
 This is another area where I'm severely lacking. So far I'm following:
