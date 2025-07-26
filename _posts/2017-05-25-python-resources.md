@@ -1,7 +1,8 @@
 ---
 date: 2017-05-25 23:30
 title: Python Resources
-categories: python
+categories: [software development]
+tags: [python]
 ---
 
 ## Introduction

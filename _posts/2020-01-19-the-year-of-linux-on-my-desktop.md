@@ -1,7 +1,8 @@
 ---
 date: 2020-01-19 18:00
 title: The Year of Linux on my Desktop?
-categories: linux
+categories: [computing]
+tags: [linux]
 ---
 
 ## Introduction

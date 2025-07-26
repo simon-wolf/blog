@@ -1,7 +1,8 @@
 ---
 date: 2013-05-01 11:52
 title: Perspective Is Terribly Important
-categories: miscellaneous
+categories: [software development]
+tags: [dementia, gps, privacy]
 ---
 
 Over the last 24 hours or so a news story (see the links to some of the coverage at the end of this post for examples) has been developing regarding 'tagging' dementia sufferers so that they can be tracked. The evolution of the story has made me thing about our perspective of things as developers.

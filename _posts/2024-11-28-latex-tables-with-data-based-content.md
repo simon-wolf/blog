@@ -1,7 +1,8 @@
 ---
 date: 2024-11-28 08:00
 title: LaTeX Tables With Data-Based Content
-categories: latex
+categories: [computing]
+tags: [latex]
 ---
 
 I have been simplifying and standardising the [LaTeX](https://www.latex-project.org/) files used to generate my company's policies and agreements. This has included using some easily editable 'metadata' at the start of each document and I wanted to be able to manage the changelog contents there too.

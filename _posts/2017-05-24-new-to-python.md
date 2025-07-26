@@ -1,7 +1,8 @@
 ---
 date: 2017-05-24 22:00
 title: New To Python
-categories: python
+categories: [software development]
+tags: [python]
 ---
 
 I recently started teaching myself [Python](https://www.python.org) and decided that documenting some of my experiences and discoveries would be a good way to revitalise my blog.

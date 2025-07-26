@@ -1,7 +1,8 @@
 ---
 date: 2017-05-25 15:00
 title: Visual Studio Code for Python Development
-categories: python
+categories: [software development]
+tags: [python]
 ---
 
 ## Introduction

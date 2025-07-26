@@ -1,225 +1,342 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-# Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
 # Theme
-remote_theme		: "mmistakes/minimal-mistakes@4.26.2"
-minimal_mistakes_skin	: "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme		: "daattali/beautiful-jekyll@6.0.1"
 
-
-# Site Settings
-locale			: "en_GB"
+# Required Options
+#locale			: "en_GB"
 title			: "Simon Wolf's Blog"
-title_separator		: "-"
-subtitle		: # site tagline that appears below site title in masthead
-name			: "Simon Wolf"
-description		: "Sometimes random, occasionally focused, rarely proof-read."
-url			: "https://blog.sgawolf.com"
-baseurl			: ""
-repository		: "simon-wolf/blog"
-words_per_minute	: 200
-atom_feed:
-  path			: "/feed.xml"
-search			: false
-search_full_content	: false
+#title_separator		: "-"
+#subtitle		: # site tagline that appears below site title in masthead
+#name			: "Simon Wolf"
+#description		: "Sometimes random, occasionally focused, rarely proof-read."
+#url			: "https://blog.sgawolf.com"
+#baseurl			: ""
+#repository		: "simon-wolf/blog"
+#words_per_minute	: 200
+#atom_feed:
+#  path			: "/feed.xml"
+#search			: false
+#search_full_content	: false
 
 # Extra Includes
-include: ["_pages"]
+#include: ["_pages"]
 
 # Social Sharing
-og_image		: "/images/sw_avatar.jpg"
-social:
-  type			: Person
-  links:
-    - https://twitter.com/sgaw
-    - https://social.sgawolf.com/@simon
-    - https://github.com/simon-wolf
+# og_image		: "/images/sw_avatar.jpg"
+# social:
+#   type			: Person
+#   links:
+#     - https://twitter.com/sgaw
+#     - https://social.sgawolf.com/@simon
+#     - https://github.com/simon-wolf
+#
+# # Site Author
+author: Simon Wolf
+# author:
+#   name			: "Simon Wolf"
+avatar: "/images/sw_avatar.jpg"
+round-avatar: true
 
-# Site Author
-author:
-  name			: "Simon Wolf"
-  avatar		: "/images/sw_avatar.jpg"
-  location		: "Somerset, England"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:simon@sgawolf.com"
-    - label: "Mastodon"
-      icon: "fab fa-mastodon"
-      url: "https://social.sgawolf.com/@simon"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/simon-wolf"
+#   location		: "Somerset, England"
+#   links:
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: "mailto:simon@sgawolf.com"
+#     - label: "Mastodon"
+#       icon: "fab fa-mastodon"
+#       url: "https://social.sgawolf.com/@simon"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/simon-wolf"
+
+# Navigation Bar
+navbar-links:
+  Categories: categories
+  Tags: tags
+  Projects: projects
+  The Legal Stuff: the_legal_stuff
+  About: about
 
 # Site Footer
-footer:
-  links:
-    - label: "Mastodon"
-      icon: "fab fa-mastodon"
-      url: "https://social.sgawolf.com/@simon"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/simon-wolf"
+social-network-links:
+  rss: true
+  email: "simon@sgawolf.com"
+  mastodon: "https://social.sgawolf.com/@simon"
+  github: simon-wolf
 
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - vendor
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
-  - CHANGELOG
-  - config
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - node_modules
-  - package.json
-  - Rakefile
-  - README
-  - tmp
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+#rss-description: Simon Wolf's blog posts
+excerpt_length: 100
 
-# Liquid
-strict_front_matter: true
-liquid:
-  error_mode: strict
+title-on-all-pages: true
 
-# Conversion
+# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
+excerpt_length: 50
+
+# Whether or not to show an excerpt for every blog post in the feed page
+feed_show_excerpt: true
+
+# Whether or not to show a list of tags below each post preview in the feed page
+feed_show_tags: true
+
+# Add a search button to the navbar
+post_search: false
+
+# Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
+edit_page_button: false
+
+# Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
+# If this setting is off, then long sub-menu words might get cut off
+# See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
+navbar-var-length: false
+
+# The keywords to associate with your website, for SEO purposes
+#keywords: "my,list,of,keywords"
+
+######################################
+# --- Colours / background image --- #
+######################################
+
+# Personalize the colours in your website. Colour values can be any valid CSS colour
+
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
+
+# Alternatively, the navbar, footer, and page background can be set to an image
+# instead of colour
+
+#navbar-img: "/assets/img/bgimage.png"
+#footer-img: "/assets/img/bgimage.png"
+#page-img: "/assets/img/bgimage.png"
+
+# Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
+#mobile-theme-col: "#0085A1"
+
+# For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
+#site-css:
+#  - "/assets/css/custom-styles.css"
+
+# If you have common JavaScript files that should be included in every page, list them here
+#site-js:
+#  - "/assets/js/custom-script.js"
+
+################
+# --- Misc --- #
+################
+
+# Ruby Date Format to show dates of posts
+date_format: "%-d %B %Y"
+
+# Facebook App ID
+#fb_app_id: ""
+
+#################################################################################
+# --- You don't need to touch anything below here (but you can if you want) --- #
+#################################################################################
+
+# Output options (more information on Jekyll's site)
+timezone: "Europe/London"
 markdown: kramdown
 highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
+permalink: /:year-:month-:day-:title/
+paginate: 7
 
-# Markdown Processing
 kramdown:
   input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
 
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: false  # add comments to all blog posts
+      social-share: false # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # any file that's not a post will be a "page" layout by default
+    values:
+      layout: "page"
 
-# Outputting
-permalink: /post/:year-:month-:day-:title
-paginate: 7 # amount of posts to show
-paginate_path: /page:num/
-timezone: Europe/London
+# Exclude these files from production site
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/
 
-# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-  - jekyll-archives
 
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-  - jekyll-archives
+# Beautiful Jekyll / Dean Attali
+# 2fc73a3a967e97599c9763d05e564189
 
-jekyll-archives:
-  enabled: categories
-  layout: archive
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
 
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path>/my-awesome-category/index.html ~> path: /
-
-# category_archive:
-#   type: liquid
-#   path: /categories/
-
-# tag_archive:
-#   type: liquid
-#   path: /tags/
-# https://github.com/jekyll/jekyll-archives
+# # Reading Files
+# include:
+#   - .htaccess
+#   - _pages
+# exclude:
+#   - "*.sublime-project"
+#   - "*.sublime-workspace"
+#   - vendor
+#   - .asset-cache
+#   - .bundle
+#   - .jekyll-assets-cache
+#   - .sass-cache
+#   - assets/js/plugins
+#   - assets/js/_main.js
+#   - assets/js/vendor
+#   - Capfile
+#   - CHANGELOG
+#   - config
+#   - Gemfile
+#   - Gruntfile.js
+#   - gulpfile.js
+#   - LICENSE
+#   - log
+#   - node_modules
+#   - package.json
+#   - Rakefile
+#   - README
+#   - tmp
+# keep_files:
+#   - .git
+#   - .svn
+# encoding: "utf-8"
+# markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+#
+# # Liquid
+# strict_front_matter: true
+# liquid:
+#   error_mode: strict
+#
+# # Conversion
+# markdown: kramdown
+# highlighter: rouge
+# lsi: false
+# excerpt_separator: "\n\n"
+# incremental: false
+#
+# # Markdown Processing
+# kramdown:
+#   input: GFM
+#   hard_wrap: false
+#   auto_ids: true
+#   footnote_nr: 1
+#   entity_output: as_char
+#   toc_levels: 1..6
+#   smart_quotes: lsquo,rsquo,ldquo,rdquo
+#   enable_coderay: false
+#
+# # Sass/SCSS
+# sass:
+#   sass_dir: _sass
+#   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+#
+# # Outputting
+# permalink: /post/:year-:month-:day-:title
+# paginate: 7 # amount of posts to show
+# paginate_path: /page:num/
+# timezone: Europe/London
+#
+# # Plugins
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jekyll-include-cache
+#   - jekyll-archives
+#
+# whitelist:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jekyll-include-cache
+#   - jekyll-archives
+#
 # jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
+#   enabled: categories
+#   layout: archive
 #   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
-
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      show_date: true
-      comments: false
-      share: true
-      related: true
-      excerpt_separator: "<!--more-->"
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+#     year: '/:year/'
+#     month: '/:year/:month/'
+#     day: '/:year/:month/:day/'
+#     tag: '/tag/:name/'
+#     category: '/category/:name/'
+#
+# # Archives
+# #  Type
+# #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+# #  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+# #  Path (examples)
+# #  - Archive page should exist at path when using Liquid method or you can
+# #    expect broken links (especially with breadcrumbs enabled)
+# #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+# #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+# #  - <base_path>/my-awesome-category/index.html ~> path: /
+#
+# # category_archive:
+# #   type: liquid
+# #   path: /categories/
+#
+# # tag_archive:
+# #   type: liquid
+# #   path: /tags/
+# # https://github.com/jekyll/jekyll-archives
+# # jekyll-archives:
+# #   enabled:
+# #     - categories
+# #     - tags
+# #   layouts:
+# #     category: archive-taxonomy
+# #     tag: archive-taxonomy
+# #   permalinks:
+# #     category: /categories/:name/
+# #     tag: /tags/:name/
+#
+# # HTML Compression
+# # - http://jch.penibelst.de/
+# compress_html:
+#   clippings: all
+#   ignore:
+#     envs: development
+#
+# # Defaults
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       show_date: true
+#       comments: false
+#       share: true
+#       related: true
+#       excerpt_separator: "<!--more-->"
+#   # _pages
+#   - scope:
+#       path: ""
+#       type: pages
+#     values:
+#       layout: single
+#       author_profile: true

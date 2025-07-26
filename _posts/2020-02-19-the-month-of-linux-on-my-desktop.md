@@ -1,7 +1,8 @@
 ---
 date: 2020-02-19 18:17
 title: The Month of Linux on my Desktop
-categories: linux
+categories: [computing]
+tags: [linux]
 ---
 
 ## Introduction

@@ -2,6 +2,7 @@
 date: 2020-09-13 15:00
 title: My Bicycle History
 categories: health
+tags: [cycling, personal]
 ---
 
 ## The Roses

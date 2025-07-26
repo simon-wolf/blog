@@ -1,7 +1,8 @@
 ---
 date: 2018-08-17 10:00
 title: Five Great Things About Elixir
-categories: elixir
+categories: [software development]
+tags: [elixir]
 ---
 
 ## Introduction
