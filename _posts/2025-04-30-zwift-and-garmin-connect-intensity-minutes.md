@@ -1,7 +1,8 @@
 ---
 date: 2025-04-30 12:00
 title: Zwift And Garmin Connect Intensity Minutes
-categories: health
+categories: [personal development]
+tags: [zwift]
 ---
 
 [Garmin Connect](https://connect.garmin.com/) tracks, amongst an awful lot of other things, intensity minutes. These are useful as a guideline about how much activity you are doing per week, particularly if you want to make sure you are hitting the [recommended guidelines](https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/).

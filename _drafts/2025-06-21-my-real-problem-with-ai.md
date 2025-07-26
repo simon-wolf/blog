@@ -1,7 +1,8 @@
 ---
-date: 2025-06-20 12:00
+date: 2025-07-26 12:00
 title: My Real Problem With AI
-categories: miscellaneous
+categories: [computing]
+tags: [commentary]
 ---
 
 My day job is in technology. It is a mix of writing code and "managing stuff" in the technology-enabled care industry. And because I work in a technology field I have a lot of exposure to AI, whether I want it or not. And that's my real problem with AI.

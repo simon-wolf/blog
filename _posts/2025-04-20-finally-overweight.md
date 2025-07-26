@@ -1,7 +1,8 @@
 ---
 date: 2025-04-20 10:00
 title: Finally Overweight
-categories: health
+categories: [personal development]
+tags: [news]
 ---
 
 This morning I did my weekly weigh-in and I was down to 89.5 KG. Apart from being below 90 KG (I was by a whisker last week) it also means, according to the [NHS BMI calculator](https://www.nhs.uk/health-assessment-tools/calculate-your-body-mass-index/), that my BMI is now 29.9... I am no longer obese and have just crept into the overweight category.

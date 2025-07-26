@@ -1,7 +1,7 @@
 ---
 date: 2017-05-25 15:15
 title: Pip and Virtual Environments
-categories: [software development]
+categories: [programming]
 tags: [python]
 ---
 

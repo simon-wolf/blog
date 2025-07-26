@@ -2,7 +2,7 @@
 date: 2018-11-14 10:32
 title: From Evernote to Notes
 categories: [computing]
-tags: [productivity, notes]
+tags: [productivity, apple]
 ---
 
 ## Introduction

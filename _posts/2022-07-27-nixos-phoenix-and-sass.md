@@ -2,7 +2,7 @@
 date: 2022-07-27 12:00
 title: NixOS, Phoenix and Sass
 categories: [computing]
-tags: [linux, nixos]
+tags: [linux, nixos, elixir]
 ---
 
 [Elixir's](https://elixir-lang.org/) web application framework, [Phoenix](https://www.phoenixframework.org/), is moving away from needing a dependency on [Node](https://nodejs.org/en/) to make projects easier to maintain and thing in general just a bit simpler. The most recent step towards this was the release of a [Tailwind Elixir library](https://github.com/phoenixframework/tailwind) which installs and runs a standalone copy of the Tailwind CLI.

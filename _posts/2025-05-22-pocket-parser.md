@@ -1,8 +1,8 @@
 ---
 date: 2025-05-22 12:00
 title: Pocket Parser
-categories: [computing]
-tags: [linux, awk]
+categories: [programming]
+tags: [awk]
 ---
 
 Earlier today I received an email telling me that Mozilla was [shutting down Pocket](https://support.mozilla.org/en-US/kb/future-of-pocket), a service which allowed you to save links to web pages you wanted to read later.

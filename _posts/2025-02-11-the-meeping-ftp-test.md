@@ -1,7 +1,8 @@
 ---
 date: 2025-02-11 12:00
 title: The Meeping FTP Test
-categories: health
+categories: [personal development]
+tags: [zwift, exercise]
 ---
 
 Do you remember the [Road Runner](https://www.youtube.com/watch?v=Hd2JgADY9d8) cartoon character? Who runs so fast that his legs look like they are spinning around really, really fast? That was me last Saturday doing an FTP test. The only difference was that I was pretty much unable to breath, let alone emit a cheery, "Meep meep!"

@@ -1,8 +1,8 @@
 ---
 date: 2020-09-13 16:00
 title: Choosing A New Bike
-categories: [health]
-tags: [cycling, fitness]
+categories: [personal development]
+tags: [news, physical health, cycling]
 ---
 
 After realising that [my weight and fitness](2020-09-13-weight-and-health) were in a bad way again I turned my attention to researching bicycles.

@@ -1,7 +1,8 @@
 ---
 date: 2025-05-18 12:00
 title: The Health Benefits
-categories: health
+categories: [personal development]
+tags: [commentary]
 ---
 
 Before I started [changing my lifestyle](2025-02-08-changing-my-lifestyle) I had heard that weight-loss and exercise are meant to help increase your energy levels and help improve your mental health. It's now been four months since I changed what I eat and almost as long since I started doing regular exercise. I've lost 15 KG and am demonstrably fitter so I wanted to share how it has changed me and perhaps this is something I'll review again in a few more months.

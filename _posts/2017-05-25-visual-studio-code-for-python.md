@@ -1,7 +1,7 @@
 ---
 date: 2017-05-25 15:00
 title: Visual Studio Code for Python Development
-categories: [software development]
+categories: [programming]
 tags: [python]
 ---
 
@@ -50,7 +50,7 @@ When you open a project in Visual Studio Code it usually does a fairly good job 
 
     Python: Select Workspace Interpreter
 
-Remember that if you are using a virtual environment (and you should be... see my [pip and Virtual Environments](https://www.swwritings.com/post/2017-05-25-pip-virtual-environments) blog post for details) you should select its Python interpreter.
+Remember that if you are using a virtual environment (and you should be... see my [pip and Virtual Environments](2017-05-25-pip-virtual-environments) blog post for details) you should select its Python interpreter.
 
 ## Settings
 Visual Studio Code has two types of settings. There are user settings, which apply to all projects, and workspace settings, which are project-specific.

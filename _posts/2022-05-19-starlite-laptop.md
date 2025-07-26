@@ -2,7 +2,7 @@
 date: 2022-05-19 14:00
 title: The StarLite Laptop
 categories: [computing]
-tags: [linux, hardware, starlabs]
+tags: [linux, hardware]
 ---
 
 I do pretty much all of my development work on my desktop computer but I still need a laptop for those times I just want to work from the sofa or for when I am travelling. It doesn't need to be massively powerful or have a great spec but I do need it to be small and light.

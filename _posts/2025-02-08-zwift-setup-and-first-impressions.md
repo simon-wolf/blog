@@ -1,7 +1,8 @@
 ---
 date: 2025-02-08 13:00
 title: Zwift Setup & First Impressions
-categories: health
+categories: [personal development]
+tags: [zwift, exercise]
 ---
 
 ## Introduction

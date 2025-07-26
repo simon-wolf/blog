@@ -1,7 +1,7 @@
 ---
 date: 2018-08-17 10:00
 title: Five Great Things About Elixir
-categories: [software development]
+categories: [programming]
 tags: [elixir]
 ---
 
@@ -136,7 +136,7 @@ The main push in improving computing power is no longer via processor speed impr
 
 Elixir uses the Erlang VM and one of its strengths is that it allows you to run lots of processes (and we're talking tens or hundreds of thousands) concurrently, spreading them across multiple cores. In addition, because functional programming transforms state rather than mutating objects you not only remove one of the main complexities that multi-threaded object-orientated languages have but you also have a powerful, simple way to maximise your computing power.
 
-I wrote a bit more about Processes and Concurrency in my [Grokking Elixir](https://www.swwritings.com/post/2018-08-11-grokking-elixir) blog post.
+I wrote a bit more about Processes and Concurrency in my [Grokking Elixir](2018-08-11-grokking-elixir) blog post.
 
 ## The Community
 This is really subjective and it is more of a gut feeling (maybe even nostalgia). The Elixir developer community still young (not in terms of developers' ages but in terms of how long it has been established) and comparatively small compared to say the communities who use Python or JavaScript or write iOS apps.  There is definitely a 'we're in this together' spirit and I've contacted a few developers so for to ask them questions about blog posts or conference talks and they have all been incredibly friendly, helpful and supportive.

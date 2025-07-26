@@ -1,7 +1,7 @@
 ---
 date: 2017-05-24 22:00
 title: New To Python
-categories: [software development]
+categories: [programming]
 tags: [python]
 ---
 

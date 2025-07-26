@@ -1,7 +1,8 @@
 ---
 date: 2025-04-26 15:00
 title: Food Noise
-categories: health
+categories: [personal development]
+tags: [commentary, food]
 ---
 
 One of the YouTube channels I have started watching recently is [Mark Lewis's](https://www.youtube.com/@MarkLewisfitness). He is generally very fit and healthy but he has a non-visible problem which is something I also have, and so do a lot of other people. It's the problem of food addiction or, as he also calls it, food noise.

@@ -1,7 +1,8 @@
 ---
 date: 2023-01-16 08:00
 title: My Twitter Wind-Down
-categories: miscellaneous
+categories: [computing]
+tags: [social media]
 ---
 
 Last Friday Twitter disabled the API keys of the major Twitter clients, including Tweetbot, my client of choice, with no notice, and no communication with the app developers or their customers.

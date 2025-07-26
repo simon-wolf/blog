@@ -1,0 +1,9 @@
+.tag-btn {
+  background-color: #BA8E37;
+  border-color: #8F6E2A;
+}
+
+.tag-btn:hover, .tag-btn:focus, .tag-btn:active, .tag-btn.active {
+    background-color: #0085A1;
+    border-color: #006276;
+}

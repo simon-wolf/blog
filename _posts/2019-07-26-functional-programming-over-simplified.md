@@ -1,7 +1,7 @@
 ---
 date: 2019-07-27 14:30
 title: Functional Programming (Over?) Simplified
-categories: [software development]
+categories: [programming]
 tags: [elixir]
 ---
 

@@ -1,7 +1,8 @@
 ---
 date: 2025-05-04 12:00
 title: VIM Comments
-categories: vim
+categories: [computing]
+tags: [vim]
 ---
 
 > I am seeing if I can switch to using [Neovim](https://neovim.io/) as my editor of choice, not just for things like blog posts but also as a replacement for [VS Code](https://code.visualstudio.com/) for development work. This is one of a set of posts to help me remember things I configure or learn. They are grouped in the [vim category](/categories/#vim).

@@ -1,8 +1,8 @@
 ---
 date: 2019-05-02 16:00
 title: Keep Moving
-categories: [personal]
-tags: [personal news]
+categories: [personal development]
+tags: [news]
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GtN3Qb3yvvM?start=97" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -15,7 +15,7 @@ I was incredibly lucky that I was given the time and space to teach myself Objec
 
 But now, eleven years after that journey began, I am about to start-over again with [Elixir](https://elixir-lang.org).
 
-Unlike back in 2008 I've been doing a reasonable amount of Elixir learning and coding in my spare time. I discovered the language around 18 months ago and [fell in love with it and functional programming](https://www.swwritings.com/post/2018-08-17-five-great-things-about-elixir). This coincided with (and maybe accelerated) me starting to get itchy feet and wanting to do something new, whether with a different client or a more dramatic change.
+Unlike back in 2008 I've been doing a reasonable amount of Elixir learning and coding in my spare time. I discovered the language around 18 months ago and [fell in love with it and functional programming](2018-08-17-five-great-things-about-elixir). This coincided with (and maybe accelerated) me starting to get itchy feet and wanting to do something new, whether with a different client or a more dramatic change.
 
 Fortunately one of those fateful moments occurred and a few weeks ago someone I know posted on Twitter asking if they knew anyone who loved Elixir. I replied that I wanted it to be my next professional language and one thing led to another. From early June it will be.
 

@@ -2,7 +2,7 @@
 date: 2025-07-05 12:00
 title: Email Links
 categories: [computing]
-tags: [productivity, email, linux, vim]
+tags: [productivity, vim]
 ---
 
 Like most people I struggle to manage emails. One of my bigger issues is that if I need to follow-up on an email or refer back to it I tend to leave it marked as unread or I occasionally flag it. However that gives me no context at all about the tasks involved or why I might need to refer to it and no ability to say when it needs to be dealt with. I know that there are services and some email clients which allow you to kind of manage this but I use Thunderbird on Linux when I'm at my desk and I'm not prepared to give a third-party service access to all of my emails.

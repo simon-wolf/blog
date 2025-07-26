@@ -1,7 +1,8 @@
 ---
 date: 2025-07-14 12:00
 title: A Project About Projects
-categories: miscellaneous
+categories: [personal development]
+tags: [news]
 ---
 
 A recent [post on Mastodon](https://mastodon.scot/@mattgemmell/114839711594692970) by Matt Gemmell suggested the people might want to have a projects section on their blogs and he also said:

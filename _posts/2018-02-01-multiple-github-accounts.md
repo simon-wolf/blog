@@ -1,8 +1,8 @@
 ---
 date: 2018-02-01 10:22
 title: Working With Multiple GitHub (and Alternatives) Accounts
-categories: [software development]
-tags: [git, github]
+categories: [programming]
+tags: [git]
 ---
 
 ## Introduction
