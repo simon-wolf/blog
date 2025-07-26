@@ -13,4 +13,5 @@ source "https://rubygems.org"
 group :jekyll_plugins do
   gem "github-pages", "~> 232", group: :jekyll_plugins
   gem "jekyll-include-cache", group: :jekyll_plugins
+  gem 'jekyll-relative-links', '~> 0.7.0', group: :jekyll_plugins
 end
