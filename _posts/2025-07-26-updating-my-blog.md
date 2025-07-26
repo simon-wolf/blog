@@ -5,7 +5,7 @@ categories: [computing]
 tags: [news]
 ---
 
-A few days ago I write a post about [blogging services](2025-07-23-simple-blogging/) where I summarised suggestions for simple blogging services after a friend asked me for recommendations. Whilst I was doing that I decided that my blog needed a bit of a refresh and general tidy-up.
+A few days ago I wrote a post about [blogging services](/2025-07-23-simple-blogging/) where I summarised suggestions for simple blogging services after a friend asked me for recommendations. Whilst I was doing that I decided that my blog needed a bit of a refresh and general tidy-up.
 
 I am now using a theme called [Beautiful Jekyll](https://beautifuljekyll.com/) by [Dean Attali](https://deanattali.com/). I will shortly (maybe by the time you read this) subscribe to thank Dean.
 
