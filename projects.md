@@ -59,6 +59,8 @@ Coming as soon as I have found an excuse to buy one.
 
 Early in 2025 I changed my lifestyle and started eating better (cooking from scratch more, eating more fruit and vegetables, stopped eating sweets and crisps and other snacks) and doing some exercise (indoor cycling, running and CrossFit).
 
+*See more detailed notes about my goals and progress in the [Fitness Goals]({% link goals_2025.md %}) section of the blog.*
+
 ### Running A Marathon
 
 Between April and June 2025 I did the [Couch to 5K](https://en.wikipedia.org/wiki/Couch_to_5K) plan. After completing it I had the ambitious idea to run a marathon, ideally the London Marathon, in 2028 to celebrate turning 55.

@@ -50,10 +50,12 @@ round-avatar: true
 
 # Navigation Bar
 navbar-links:
-  Categories: categories
-  Tags: tags
+  Lists of Posts:
+    - By Category: categories
+    - By Tag: tags
   Projects: projects
-  The Legal Stuff: the_legal_stuff
+  Fitness Goals:
+    - 2025 Goals: goals_2025
   About: about
 
 # Site Footer
