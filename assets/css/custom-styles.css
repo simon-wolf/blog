@@ -1,6 +1,31 @@
+body {
+  color: #404040;
+  background-color: #FFFFFF;
+}
+
+.navbar-custom {
+  background-color: #FB8500;
+}
+
 .tag-btn {
-  background-color: #BA8E37;
+  background-color: #023047;
   border-color: #8F6E2A;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #F2E9E4;
+    background-color: #22223B;
+  }
+
+  .navbar-custom {
+    background-color: #4A4E69;
+  }
+
+  .tag-btn {
+    background-color: #FF0000;
+    border-color: #8F6E2A;
+  }
 }
 
 .tag-btn:hover, .tag-btn:focus, .tag-btn:active, .tag-btn.active {
