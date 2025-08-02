@@ -51,7 +51,7 @@ News coming soon.
 
 ### Inky Impression
 
-I have a love of e-ink screens and being able to drive one from a Raspberry Pi, something else I have enjoyed using for many years, would be very cool. assuming they come back into stock then I plan on [buying a 13.3" screen](https://shop.pimoroni.com/products/inky-impression-7-3?variant=55186435277179) to play with.
+I have a love of e-ink screens and being able to drive one from a Raspberry Pi, something else I have enjoyed using for many years, would be very cool. Assuming they come back into stock then I plan on [buying a 13.3" screen](https://shop.pimoroni.com/products/inky-impression-7-3?variant=55186435277179) to play with.
 
 ## Health & Wellbeing
 
