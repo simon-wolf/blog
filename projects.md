@@ -49,11 +49,9 @@ The [Pico-8](https://www.lexaloffle.com/pico-8.php) is a "fantasy console". It e
 
 News coming soon.
 
-### TRMNL
+### Inky Impression
 
-The [TRMNL](https://usetrmnl.com/) is an e-ink screen which can be used to display dashboards of information.
-
-Coming as soon as I have found an excuse to buy one.
+I have a love of e-ink screens and being able to drive one from a Raspberry Pi, something else I have enjoyed using for many years, would be very cool. assuming they come back into stock then I plan on [buying a 13.3" screen](https://shop.pimoroni.com/products/inky-impression-7-3?variant=55186435277179) to play with.
 
 ## Health & Wellbeing
 
