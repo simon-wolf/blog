@@ -1,5 +1,5 @@
 ---
-date: 2025-08-10 12:00
+date: 2025-08-09 12:00
 title: Six Months In And Out Of The Saddle
 categories: [personal development]
 tags: [zwift]
@@ -45,4 +45,6 @@ As I have mentioned before in my blog posts, I am finding one of the biggest ben
 
 ## The Next Six Months
 
-I can't predict what the next six months will hold but I'm anticipating that I'll carry on with CrossFit and, for the next couple of months at least, focus more on running than Zwift whilst the weather (hopefully) remains good and the evenings are still light enough to run without worrying about lights and high-vis. But I expect that as soon as the weather turns I'm going to get back into Zwift. Perhaps, like a lot of other people, Zwift will be a seasonal thing for me and there is nothing wrong with that.
+I can't predict what the next six months will hold but I'm anticipating that I'll carry on with CrossFit and, for the next couple of months at least, focus more on running than Zwift whilst the weather (hopefully) remains good and the evenings are still light enough to run without worrying about lights and high-vis. But I expect that as soon as the weather turns I'm going to get back into Zwift.
+
+For me, like it is for a lot of people I imagine, it looks like Zwift may be a seasonal thing.
