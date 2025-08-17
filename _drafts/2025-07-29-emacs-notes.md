@@ -33,7 +33,7 @@ In *C-x 8 P* both *C-x* and *8* are prefix keys. The key is complete when *P* is
 | M-S-x | Execute extended command for buffer* |
 | C-g | 'Bail out' |
 
-* The available extendec commands are limited to those relevant to the current buffer.
+*The available extended commands are limited to those relevant to the current buffer.
 
 ### Some Basic Window Key Sequences
 
