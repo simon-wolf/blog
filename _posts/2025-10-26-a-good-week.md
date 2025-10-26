@@ -17,7 +17,7 @@ Things at work have been busy and, at times stressful. Over the last three weeks
 
 ## Fitness and Exercise
 
-Part of my lifestyle change has been to start exercising and, in addition to my new [parkrun PB]({% post_url 2025-10-18-10-k-looming %)) last weekend, this week I had two good CrossFit sessions where I noticed that I was able to work with heavier weights than I have before and I also took part in a [Zwift](https://www.zwift.com/uk) race where I did better than I expected and also increased my FTP (a measure of your cycling power).
+Part of my lifestyle change has been to start exercising and, in addition to my new [parkrun PB]({% post_url 2025-10-18-10-k-looming %}) last weekend, this week I had two good CrossFit sessions where I noticed that I was able to work with heavier weights than I have before and I also took part in a [Zwift](https://www.zwift.com/uk) race where I did better than I expected and also increased my FTP (a measure of your cycling power).
 
 ## Down-Time
 
