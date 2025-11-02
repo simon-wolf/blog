@@ -5,8 +5,6 @@ categories: [computing]
 tags: [linux]
 ---
 
-## Introduction
-
 After I wrote about my love of [StarLabs's](https://starlabs.systems) 11" laptop, [the StarLite](https://starlabs.systems/pages/starlite), someone asked me about the software I run on it, how I work with people who use Windows and macOS and whether things like using a laptop with 8GB of RAM is a problem. It all seems like good content for a follow-up on my original posts about switching to Linux from [January 2020]({% post_url 2020-01-19-the-year-of-linux-on-my-desktop %}) and [the follow-up]({% post_url 2020-02-19-the-month-of-linux-on-my-desktop %}) I wrote the following month.
 
 As I mentioned yesterday, my laptop is a StarLite and my main work machine is, as per my blog post from February 2020, still the Hades Canyon NUC.

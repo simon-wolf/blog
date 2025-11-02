@@ -5,7 +5,6 @@ categories: [programming]
 tags: [python]
 ---
 
-## Introduction
 This blog post gives a brief overview about how I've settled on using Visual Studio Code for Python development and describes the basic configurations I'm using.
 
 ## Finding An IDE

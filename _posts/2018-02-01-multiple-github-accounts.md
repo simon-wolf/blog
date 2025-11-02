@@ -5,7 +5,6 @@ categories: [programming]
 tags: [git]
 ---
 
-## Introduction
 I have multiple GitHub accounts courtesy of having several clients and a couple of my own businesses. Accessing and managing them can be a bit of a juggling act and I frequently forget how to do things so I decided that it was time to document various aspects of what I do.
 
 ## Authentication Via SSH

@@ -5,8 +5,6 @@ categories: [programming]
 tags: [elixir]
 ---
 
-## Introduction
-
 Since changing track from being a macOS application developer to being an Elixir developer a few people have asked me about functional programming and how it is different to object-orientated programming. This is my answer, written from the perspective of an Elixir programmer rather than being an exact, academic definition.
 
 ## In One Sentence

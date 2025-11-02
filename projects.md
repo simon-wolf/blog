@@ -39,7 +39,7 @@ Exactly like Neovim above, I want to explore Emacs as an alternative to Visual S
 
 Being able to parse a plain text file and extract or summarise data or calculate totals is incredibly useful. I'm still a beginner with AWK really buy enjoy using it every time I find an excuse to do so.
 
-**May 2025:** Used AWK to process a CSV data export from Pocket and generate a list of Markdown links ([blog post](https://blog.sgawolf.com/post/2025-05-22-pocket-parser)).
+**May 2025:** Used AWK to process a CSV data export from Pocket and generate a list of Markdown links ([blog post]({% post_url 2025-05-22-pocket-parser %})).
 
 ## Learning How To Use Technology
 

@@ -5,8 +5,6 @@ categories: [computing]
 tags: [productivity, apple]
 ---
 
-## Introduction
-
 Plain text files are very portable. There is no tie-in to any particular editor or application or even operating system. The problem is that most documents we create are not stored as plain text and so our data is chained up and restricted to where and how it can be accessed and used.
 
 In many cases this is a justified or necessary 'expense'. A styled document such as a product brochure is simple to put together in Word and a business budget plan can be created easily in Excel. However perhaps not everything needs to be locked to complex file formats (proprietary or open-source).

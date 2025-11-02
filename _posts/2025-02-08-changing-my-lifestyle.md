@@ -5,9 +5,7 @@ categories: [personal development]
 tags: [physical health, food, exercise, news]
 ---
 
-## Introduction
-
-In September 2020 [I wrote about](https://blog.sgawolf.com/post/2020-09-13-weight-and-health) how I needed to loose weight and get fit. Four and a half years later and I could copy and paste that post into this one and, apart from some dates, it would all be exactly the same.
+In September 2020 [I wrote about]({% post_url 2020-09-13-weight-and-health %}) how I needed to loose weight and get fit. Four and a half years later and I could copy and paste that post into this one and, apart from some dates, it would all be exactly the same.
 
 I turned 52 at the end of December and I've been thinking about my fitness and life-expectancy for a long time now. My father passed away four years ago at the age of 75 due to skin cancer which became secondary lung cancer and ever since then I have been acutely aware of my mortality (to the extent that when an unhealthy-looking celebrity passes away I check how old they were and then seem to think it gives me an idea of how long I might have left).
 

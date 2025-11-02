@@ -5,7 +5,6 @@ categories: [computing]
 tags: [productivity, apple]
 ---
 
-## Introduction
 I have been using [Evernote](https://www.evernote.com) for several years and I pay for a Premium plan because I need to use more than two devices and some of my attachments are over 25MB in size. The system is very capable and includes some really nice features including OCR'ing text in images (really handy if you take a photo of something like a business card).
 
 However the application is also full of features I don't need or use when I actually looked at what I wanted to use it for it was a very small set of requirements:

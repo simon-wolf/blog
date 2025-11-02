@@ -5,7 +5,6 @@ categories: [programming]
 tags: [python]
 ---
 
-## Introduction
 Whenever I start learning a new programming language I like to find good book and blog authors, good conference videos (and ideally find conferences I might be able to attend), find some podcasts to listen to, and find new people to follow on Twitter.
 
 I'm currently getting to know Python so whilst this post outlines my initial discoveries is also a request for help. If you have any suggestions for me please let me know via [Twitter](http://twitter.com/sgaw). I'll either update this post or create a new one once I've gained some more exposure to the Python community.

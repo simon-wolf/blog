@@ -5,7 +5,6 @@ categories: [programming]
 tags: [elixir]
 ---
 
-## Introduction
 My career as a developer has evolved through various languages and platforms during the last 20-something years and for the last decade I've mainly focused on Apple's macOS and iOS platforms using Objective-C and Swift whilst occasionally using other languages such as Python and JavaScript. Occasionally I hear about 'the next big thing' and take a look at what the fuss is about and one of them has really piqued my interest: [Elixir](https://elixir-lang.org). 
 
 I thought it would be fun to put together a top five list of the things I really like about it so, in no particular order...

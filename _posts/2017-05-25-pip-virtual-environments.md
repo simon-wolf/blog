@@ -5,7 +5,6 @@ categories: [programming]
 tags: [python]
 ---
 
-## Introduction
 The contents of this post are based on a blog post written by Jamie Matthews which is called, '[A non-magical introduction to Pip and Virtualenv for Python beginners](https://www.dabapps.com/blog/introduction-to-pip-and-virtualenv-python/)'. After reading this post it is probably worth going and reading his because it does explain things in more detail and very possibly more clearly. However I'm presenting a cut-down version because, if you are using Python 3.3 or higher, virtual environments are built-in. From Python 3.5 you use the [venv](https://docs.python.org/3.7/library/venv.html) command which in Python 3.3 and 3.4 was called `pyvenv`. Jamie's post discusses using [virtualenv](https://virtualenv.pypa.io/en/stable/) instead.
 
 ## The Python Package Index

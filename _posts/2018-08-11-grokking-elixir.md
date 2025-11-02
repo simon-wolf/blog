@@ -5,7 +5,6 @@ categories: [programming]
 tags: [elixir]
 ---
 
-## Introduction
 Late last September I started being interested in [Elixir](https://elixir-lang.org). As the website says, "Elixir is a dynamic, functional language designed for building scalable and maintainable applications." Elixir uses the [Erlang](http://www.erlang.org) Virtual Machine and Erlang is a battle-tested language which was originally developed by [Ericsson](https://en.wikipedia.org/wiki/Ericsson) for telephony applications which needed to be distributed, fault-tolerant and highly available. Elixir is really a more modern, more readable, less verbose version of Erlang.
 
 My interest was partly academic but I maintain the back-end and front-end code for a system which needs to be reliable, stable and scalable. Elixir seemed to be perfectly suited to that sort of role so I had a vague plan to re-write some or all of it in Elixir.

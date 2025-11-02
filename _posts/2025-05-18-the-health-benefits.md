@@ -25,7 +25,7 @@ However I do now crave exercise and I enjoy going out for a run or doing a Zwift
 
 ## Mental Health
 
-This is much easier for me to reflect on because I'm generally pretty aware of my mental health state. One of my earliest (surviving... I do prune really out of date things) blog posts was [about my mental health](http://localhost:4000/post/2012-06-15-the-depressed-developer) and I am pretty conscious about the ups-and-downs I can go through.
+This is much easier for me to reflect on because I'm generally pretty aware of my mental health state. One of my earliest (surviving... I do prune really out of date things) blog posts was [about my mental health]({% post_url 2012-06-15-the-depressed-developer %}) and I am pretty conscious about the ups-and-downs I can go through.
 
 ### Weight Loss
 

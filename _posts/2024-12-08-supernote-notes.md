@@ -11,10 +11,10 @@ They will be updated regularly as I add more things I want to refer back to. The
 
 ## Related Posts
 
-* [First Impressions](https://blog.sgawolf.com/post/2024-12-08-supernote-first-impressions).
-* [Navigation](https://blog.sgawolf.com/post/2024-12-09-supernote-navigation) within and between notes.
-* [Size of a Supernote](https://blog.sgawolf.com/post/2024-12-09-size-of-a-supernote) is a comparison of the Superenote's size vs. a Moleskine, a Rhodia pad and a reMarkable 2.
-* [A month with a Supernote](https://blog.sgawolf.com/posts/2025-01-03-a-month-with-a-supernote) gives an update on my first impressions and whether the Supernote lived up to expectations.
+* [First Impressions]({% post_url 2024-12-08-supernote-first-impressions %}).
+* [Navigation]({% post_url 2024-12-09-supernote-navigation %}) within and between notes.
+* [Size of a Supernote]({% post_url 2024-12-09-size-of-a-supernote %}) is a comparison of the Superenote's size vs. a Moleskine, a Rhodia pad and a reMarkable 2.
+* [A month with a Supernote]({% post_url 2025-01-03-a-month-with-a-supernote %}) gives an update on my first impressions and whether the Supernote lived up to expectations.
 
 ## Gestures
 

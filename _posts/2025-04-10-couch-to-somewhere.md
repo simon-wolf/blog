@@ -7,7 +7,7 @@ tags: [running]
 
 Two weeks ago I did something I've never done before. I voluntarily, for pleasure and exercise, went for a (kind of) run. I started [Couch To 5K](https://en.wikipedia.org/wiki/Couch_to_5K).
 
-It must be 35 or more years since I last ran for exercise and back then it would have been teenage me reluctantly in a PE lesson at school. Since then I might have broken out into a bit of a run to catch a bus or train, probably to retrieve a wayward toddler as she made a bid for freedom under the lax supervision of her father. Most recently it was 30 seconds on a treadmill when I was [buying my running shoes](https://blog.sgawolf.com/post/2025-02-08-changing-my-lifestyle).
+It must be 35 or more years since I last ran for exercise and back then it would have been teenage me reluctantly in a PE lesson at school. Since then I might have broken out into a bit of a run to catch a bus or train, probably to retrieve a wayward toddler as she made a bid for freedom under the lax supervision of her father. Most recently it was 30 seconds on a treadmill when I was [buying my running shoes]({% post_url 2025-02-08-changing-my-lifestyle %}).
 
 ## School: An Education... In Hating Exercise
 
