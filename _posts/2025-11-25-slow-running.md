@@ -13,21 +13,21 @@ Exercise can be split into two types, aerobic and anaerobic. Aerobic exercise, s
 
 ## Heart Rate Zones
 
-Heart rate zones are a way to indicate how hard your heart is working and it is common to think about five of them.
+So what defines how hard your heart is working and therefore whether an activity is aerobic or anaerobic? The answer is heart rate zones and there are generally considered to be five of them:
 
-**Zone 1** is a low intensity zone (50% to 60% of your maximum heart rate) and it is good for warm-ups, cool-downs and easy workouts. This is a fat-burning zone.
+**Zone 1** is a low intensity zone (50% to 60% of your maximum heart rate) and it is good for warm-ups, cool-downs and easy workouts.
 
-**Zone 2** is a moderate intensity zone (60% to 70% of your maximum heart rate). It is good for building endurance and burning fat. This is a fat-burning zone.
+**Zone 2** is a moderate intensity zone (60% to 70% of your maximum heart rate). It is good for building endurance and burning fat.
 
-**Zone 3** is a moderate to high intensity zone (70% to 80% of your maximum heart rate). It is good for increasing your aerobic fitness and strength. This is a fat burning zone.
+**Zone 3** is a moderate to high intensity zone (70% to 80% of your maximum heart rate). It is good for increasing your aerobic fitness and strength.
 
 **Zone 4** is a high intensity zone (80% to 90% of your maximum heart rate). It is good for working towards speed and power gains. This is a glycogen (carbohydrates) and protein reserve burning zone.
 
-**Zone 5** is a very high intensity zone (90% to 100% of your maximum heart rate). It is used when you are really pushing hard and trying to do things like beat a personal best. It is not sustainable for very long. This is a glycogen and protein burning zone.
+**Zone 5** is a very high intensity zone (90% to 100% of your maximum heart rate). It is used when you are really pushing hard and trying to do things like beat a personal best. It is not sustainable for very long.
 
 ## Actual Values
 
-60% to 70% of your maximum heart rate is a bit meaningless and there are several ways to get actual heart rates to work with. Below are three common ones.
+Saying "60% to 70% of your maximum heart rate" is a bit meaningless and there are several ways to get actual heart rates to work with. Below are three common ones.
 
 ### Rough Guide
 
@@ -45,13 +45,17 @@ Zone 4: 134 to 151 BPM (80% to 90% of 168)
 
 Zone 5: 151 to 168 BPM (90% to 100% of 168)
 
+This is the most inaccurate method but it provides a reasonable guideline if you have no other data to work with.
+
 ### A VO2 Max Test
 
 This is a test you undertake in a controlled environment with a doctor or sports specialists. You undertake some form of cardiovascular exercise (usually running on a treadmill or riding an exercise bike) and you do this at maximum effort whilst your oxygen levels are monitored. This is the most accurate method to use.
 
+> I have booked myself one of these for the end of January 2026, a year to the day since my [Zwift Ride]({% post_url 2025-02-08-zwift-setup-and-first-impressions %}) was delivered and I started exercising regularly. I will write about the experience and results.
+
 ### Smartwatches/Heart Rate Monitors
 
-Not as good as a VO2 Max test but better than the rough guide is to use the data from a smartwatch and/or a heart monitor. A heart monitor is more accurate than a smartwatch for finding your maximum heart rate but a smartwatch will do. Smartwatches are also good for gathering information about your resting heart rate which you also need for this calculation (although you can measure your pulse over a few days when you first wake up).
+Not as good as a VO2 Max test but better than the rough guide is to use the data from a smartwatch and/or a heart rate monitor. A heart rate monitor is more accurate than a smartwatch for finding your maximum heart rate but a smartwatch will do. Smartwatches are also good for gathering information about your resting heart rate which is also needed for this calculation (although you can measure your pulse over a few days when you first wake up).
 
 My Garmin Fenix tells me that my maximum heart rate is 187 and my resting heart rate is 48. By subtracting the resting rate from the maximum you get a heart rate reserve value which, for me, is 139.
 
@@ -77,8 +81,8 @@ Having shown all of that, my Garmin Fenix does allow me to create a workout wher
 
 Well for me, when I am running outside, I'm really bad at it. I always seem to end up running too fast and the hills (even fairly gentle slopes) where I live make it all a fairly stressful mental exercise as much as a physical one.
 
-Fortunately the miserably cold, wet weather we have had recently got me to try the treadmill at my CrossFit gym and I'm getting the hang of it and am getting better about adjusting the speed to match my desired heart rate range. It's not as engaging as running outside but, because I am running at the right sort of pace, my breathing is much more controlled and I can listen to podcasts or audiobooks (when I run outside it tends to be to a mix of music and my ragged breathing).
+Fortunately the miserably cold, wet weather we have had recently got me to try the treadmill at my CrossFit gym and I'm getting the hang of it and am getting better about adjusting the speed to match my desired heart rate range. It's not as engaging as running outside but, because I am running at the right sort of pace, my breathing is much more controlled.
 
-And this has been the interesting thing for me... After just a couple of slower runs (and the first one was in the lower part of zone 3) I can feel the huge difference between the kind of running I usually do (gasping for breath, focusing on the physical act of running) and this slower, zone 2, running where I can breath much more freely, feel like I could talk to someone and can listen to something and take it in rather than it just being background noise. This is the kind of running I imagined before I started Couch to 5K, where every run is not a race and I'm not pushing myself towards my limit. 
+After just a few slower runs I can feel the huge difference between the kind of running I usually do (breathing heavily, focusing on the physical act of running) and slower, zone 2, running where I can breath much more freely, feel like I could talk to someone and I can listen to and concentrate on podcasts and audiobooks. This is the kind of running I imagined before I started Couch to 5K, where every run does not feel like a race.
 
 I am going into this phase of "exploring exercise" knowing that increasing my aerobic condition is a slow process but I am hoping that the next four wintry months will give me plenty of opportunity to get more used to running at a suitable pace on a treadmill and get a better idea of what that pace actually is so that by the time spring comes I will be able to do zone 2 runs outside much more easily.
