@@ -1,0 +1,28 @@
+---
+layout: page
+title: 'Chronological'
+---
+
+{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+
+{%- assign posts_by_year_list = site.posts | group_by_exp:"post", "post.date | date: '%Y'" -%}
+
+<div id="full-tags-list">
+{%- for year in posts_by_year_list -%}
+    <h2 id="{{- year.name -}}" class="linked-section">
+        <i class="fas fa-layer-group" aria-hidden="true"></i>
+        &nbsp;{{- year.name -}}&nbsp;({{year.items.size}})
+    </h2>
+    <div class="post-list">
+        {%- for post in year.items -%}
+            <div class="tag-entry">
+                <a href="{{ post.url | relative_url }}">{{- post.title | strip_html -}}</a>
+                <div class="entry-date">
+                    <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: date_format -}}</time>
+                </div>
+            </div>
+        {%- endfor -%}
+    </div>
+{%- endfor -%}
+</div>
+
