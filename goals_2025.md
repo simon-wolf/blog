@@ -4,6 +4,8 @@ title: 2025 Goals
 permalink: /goals_2025/
 ---
 
+> The goals for the current year can be found [here]({% link goals.md %}).
+
 * toc placeholder
 {:toc}
 

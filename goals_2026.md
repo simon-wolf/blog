@@ -81,6 +81,10 @@ permalink: /goals_2026/
 * Goal: Find a yoga or Pilates class to start improving my flexibility.
 * Status: Pending.
 
+# Previous Years
+
+* [2025]({% link goals_2025.md %})
+
 # Changelog
 
 * *31 December 2026:* Added the 2026 goals page.

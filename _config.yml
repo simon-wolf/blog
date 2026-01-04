@@ -54,10 +54,10 @@ navbar-links:
     - Chronological: chronological
     - By Category: categories
     - By Tag: tags
-  Projects: projects
-  Fitness Goals:
-    - 2026 Goals: goals_2026
-    - 2025 Goals: goals_2025
+  Projects & Goals:
+    - Projects: projects
+    - Downtime: downtime
+    - Fitness Goals: goals
   About: about
 
 # Site Footer

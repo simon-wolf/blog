@@ -57,7 +57,7 @@ I have a love of e-ink screens and being able to drive one from a Raspberry Pi, 
 
 Early in 2025 I changed my lifestyle and started eating better (cooking from scratch more, eating more fruit and vegetables, stopped eating sweets and crisps and other snacks) and doing some exercise (indoor cycling, running and CrossFit).
 
-*See more detailed notes about my goals and progress in the [Fitness Goals]({% link goals_2025.md %}) section of the blog.*
+*See more detailed notes about my goals and progress in the [Fitness Goals]({% link goals.md %}) section of the blog.*
 
 ### Running A Marathon
 
