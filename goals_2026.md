@@ -26,16 +26,25 @@ permalink: /goals_2026/
 | 2025-07-19 | Shepton Mallet | 35:35 |
 | 2025-07-26 | Shepton Mallet | 35:27 |
 | 2025-10-18 | Shepton Mallet | 32:13 |
+| 2026-01-17 | Shepton Mallet | 33:14 |
 
 ## Volunteer At parkruns
 
 * Goal: Volunteer at 5 parkruns.
 * Status: Pending.
 
+| Date | Location |
+| --- | --- |
+| 2026-01-24 | Shepton Mallet |
+
 ## 10K Races
 
 * Goal: Run four 10k races.
 * Status: Pending.
+
+| Date | Location | Time |
+| --- | --- | --- |
+| 2026-05-24 | Taunton Trail 10K | Pending |
 
 ## 5K Races
 
