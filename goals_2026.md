@@ -33,9 +33,11 @@ permalink: /goals_2026/
 * Goal: Volunteer at 5 parkruns.
 * Status: Pending.
 
+parkrun cancelled due to the weather for what would have been my first time.
+
 | Date | Location |
 | --- | --- |
-| 2026-01-24 | Shepton Mallet |
+| 2026-01-?? | Shepton Mallet |
 
 ## 10K Races
 
