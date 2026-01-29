@@ -16,6 +16,16 @@ permalink: /goals_2026/
 
 # Running
 
+## 5k Pace
+
+* Goal: Run 5k in under 30 minutes.
+* Status: PB is 32:13 on 18 October 2025.
+
+## 10k Pace
+
+* Goal: Run 10k in under 60 minutes.
+* Status: PB is 1:11:46 on 14 December 2025.
+
 ## Regularly Attend parkruns
 
 * Goal: Hit the 10 milestone.
