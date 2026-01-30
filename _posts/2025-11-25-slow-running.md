@@ -51,7 +51,7 @@ This is the most inaccurate method but it provides a reasonable guideline if you
 
 This is a test you undertake in a controlled environment with a doctor or sports specialists. You undertake some form of cardiovascular exercise (usually running on a treadmill or riding an exercise bike) and you do this at maximum effort whilst your oxygen levels are monitored. This is the most accurate method to use.
 
-> I have booked myself one of these for the end of January 2026, a year to the day since my [Zwift Ride]({% post_url 2025-02-08-zwift-setup-and-first-impressions %}) was delivered and I started exercising regularly. I will write about the experience and results.
+> I took a VO2 max test at the end of January 2026, a year to the day since my [Zwift Ride]({% post_url 2025-02-08-zwift-setup-and-first-impressions %}) was delivered and I started exercising regularly. You can read about it [here]({% post_url 2026-01-30-vo2-max-testing %}).
 
 ### Smartwatches/Heart Rate Monitors
 
