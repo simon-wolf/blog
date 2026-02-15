@@ -19,7 +19,7 @@ permalink: /goals_2026/
 ## 5k Pace
 
 * Goal: Run 5k in under 30 minutes.
-* Status: PB is 32:13 on 18 October 2025.
+* Status: PB is 32:00 on 14 February 2026.
 
 ## 10k Pace
 
@@ -37,15 +37,17 @@ permalink: /goals_2026/
 | 2025-07-26 | Shepton Mallet | 35:27 |
 | 2025-10-18 | Shepton Mallet | 32:13 |
 | 2026-01-17 | Shepton Mallet | 33:14 |
+| 2026-02-14 | Shepton Mallet | 32:00 |
 
 ## Volunteer At parkruns
 
 * Goal: Volunteer at 5 parkruns.
-* Status: Pending.
+* Status: In progress.
 
-| Date | Location |
-| --- | --- |
-| 2026-01-31 | Shepton Mallet |
+| Date | Location | Role |
+| --- | --- | --- |
+| 2026-01-31 | Shepton Mallet | Token Support |
+| 2026-02-07 | Shepton Mallet | Token Support |
 
 ## 10K Races
 
