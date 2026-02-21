@@ -48,6 +48,7 @@ permalink: /goals_2026/
 | --- | --- | --- |
 | 2026-01-31 | Shepton Mallet | Token Support |
 | 2026-02-07 | Shepton Mallet | Token Support |
+| 2026-02-21 | Shepton Mallet | Course Marshal |
 
 ## 10K Races
 
