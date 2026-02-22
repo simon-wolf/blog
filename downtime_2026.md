@@ -46,11 +46,10 @@ I have a massive backlog of books on my Kindle but, unlike with the games, it is
 ### In Progress
 
 * **Travelling to Work** [<i class="fa fa-link"></i>](https://www.themichaelpalin.com/my-diaries/my-diaries-travelling-to-work/) _by Michael Palin_
-* **The Subtle Art of Not Giving a Fuck** [<i class="fa fa-link"></i>](https://markmanson.net/books/subtle-art) _by Mark Manson_
 
 ### Complete
 
--
+* **The Subtle Art of Not Giving a Fuck** [<i class="fa fa-link"></i>](https://markmanson.net/books/subtle-art) _by Mark Manson_
 
 ### The Backlog
 
@@ -67,5 +66,25 @@ These lists are going to be more reactive than planned since there are very few 
 
 ### TV Shows
 
-* **The Traitors** [<i class="fa fa-link"></i>](https://www.bbc.co.uk/programmes/p0db9b2t) _(BBC)_
+* **The Traitors (Series 4)** [<i class="fa fa-link"></i>](https://en.wikipedia.org/wiki/The_Traitors_(British_TV_series)_series_4) _(BBC)_ (January 2026)
+* **Boat Story** [<i class="fa fa-link"></i>](https://en.wikipedia.org/wiki/Boat_Story) _(BBC)_ (February 2026)
+* **Small Prophets** [<i class="fa fa-link"></i>](https://en.wikipedia.org/wiki/Small_Prophets) _(BBC)_ (February 2026)
 
+## Board Games
+
+Whilst video games have been a part of my life since I was around 10 I have recently had an urge to play some board games and after looking into single-player options I'm going to start with [Hostage Negotiator](https://vanrydergames.com/collections/hn) and [Final Girl](https://vanrydergames.com/pages/final-girl). Both are by Van Ryder Games and Final Girl is an evolution of Hostage Negotiator's mechanics.
+
+### Final Girl
+
+* Core Box
+* Happy Trails (Series 1 Feature Film)
+* Madness In The Dark (Series 2 Feature Film)
+
+### Hostage Negotiator
+
+* Hostage Negotiator Base Set
+* Hostage Negotiator: Crime Wave
+* Hostage Negotiator: Career
+* Abductor Packs 1 to 10
+* Alternate Finale Packs 1 & 2
+* Demand Packs 1 & 2
