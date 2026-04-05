@@ -79,9 +79,6 @@ And it all went very smoothly. Wearing a face mask is a bit odd but it is not ov
   <figcaption>Jonathan checking I was okay!</figcaption>
 </figure>
 
-## Coming Soon - The Results
+## The Results
 
-When the testing was over and I'd got my breath back we went through some of the results but I am going to wait until I get my official report (in about a week) before sharing them. This is partly to make sure that I get the figures right and partly so that I can read and digest the report to see what other useful information might be in it.
-
-However, being as spoiler-light as I can be, my Garmin watch is not massively off in terms of VO<sub>2</sub> accuracy so I didn't get any nasty surprises.
-
+You can read about the results of the testing in the [follow-up post]({% post_url 2025-04-05-vo2-max-testing-results %}).
