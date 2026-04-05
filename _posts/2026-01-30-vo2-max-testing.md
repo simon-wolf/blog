@@ -81,4 +81,4 @@ And it all went very smoothly. Wearing a face mask is a bit odd but it is not ov
 
 ## The Results
 
-You can read about the results of the testing in the [follow-up post]({% post_url 2025-04-05-vo2-max-testing-results %}).
+You can read about the results of the testing in the [follow-up post]({% post_url 2026-04-05-vo2-max-testing-results %}).
