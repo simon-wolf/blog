@@ -19,7 +19,7 @@ permalink: /goals_2026/
 ## 5k Pace
 
 * Goal: Run 5k in under 30 minutes.
-* Status: PB is 32:00 on 14 February 2026.
+* Status: PB is 31:03 on 4 April 2026.
 
 ## 10k Pace
 
@@ -38,6 +38,7 @@ permalink: /goals_2026/
 | 2025-10-18 | Shepton Mallet | 32:13 |
 | 2026-01-17 | Shepton Mallet | 33:14 |
 | 2026-02-14 | Shepton Mallet | 32:00 |
+| 2026-04-04 | SHepton Mallet | 31:03 |
 
 ## Volunteer At parkruns
 
