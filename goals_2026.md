@@ -38,7 +38,8 @@ permalink: /goals_2026/
 | 2025-10-18 | Shepton Mallet | 32:13 |
 | 2026-01-17 | Shepton Mallet | 33:14 |
 | 2026-02-14 | Shepton Mallet | 32:00 |
-| 2026-04-04 | SHepton Mallet | 31:03 |
+| 2026-04-04 | Shepton Mallet | 31:03 |
+| 2026-04-11 | Shepton Mallet | 31:51 |
 
 ## Volunteer At parkruns
 
