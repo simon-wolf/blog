@@ -1,11 +1,11 @@
 ---
-date: 2025-07-29 12:00
+date: 2026-04-29 12:00
 title: Emacs Notes
 categories: [computing]
 tags: [emacs]
 ---
 
-## Terminology
+## Key Sequences
 
 A *key sequence*, or just a *key*, is a sequence of keyboard actions.
 
@@ -36,4 +36,17 @@ In *C-x 8 P* both *C-x* and *8* are prefix keys. The key is complete when *P* is
 *The available extended commands are limited to those relevant to the current buffer.
 
 ### Some Basic Window Key Sequences
+
+
+## Buffers, Frames & Windows
+
+A buffer displays content. Everything you see and type is in a buffer.
+
+A window is a view of the contents of a buffer. A window displays the contents of one buffer (but you can display the same buffer in multiple windows).
+
+Windows are displayed in a frame. A frame can display one or more windows.
+
+The cursor is only ever in one window and that is called the selected window or current window.
+
+At the bottom of each window is the mode line and below that is the echo area.
 
