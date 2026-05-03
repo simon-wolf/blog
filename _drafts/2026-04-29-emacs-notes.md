@@ -139,6 +139,17 @@ It can be invoked via `M-x tab-bar-mode` or by invoking one of the key bindings 
 
 ## General Editing Notes
 
+### Line and Column Numbers
+
+```
+;; Show line numbers in text and programming modes
+(add-hook 'text-mode-hook 'display-line-numbers-mode)
+(add-hook 'prog-mode-hook 'display-line-numbers-mode)
+
+;; Show the column number in the mode line (line number is shown by default)
+(setq column-number-mode t)
+```
+
 ### Cut, Copy, and Paste
 
 The Emacs terminology is:
