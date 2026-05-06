@@ -1,5 +1,5 @@
 ---
-date: 2026-04-29 12:00
+date: 2026-05-06 12:00
 title: Emacs Notes
 categories: [computing]
 tags: [emacs]
@@ -78,8 +78,6 @@ To have the split be horizontally (`[]|[]`) by default:
 (setq split-width-threshold 1)
 ```
 
-**To-Do:** Investigate `winner-mode`.
-
 ### Frames
 
 Managing frames is very similar to managing windows:
@@ -95,8 +93,6 @@ Managing frames is very similar to managing windows:
 | C-x 5 b | Switch the buffer in the other frame and make it the active window |
 
 **Note:** Frames all share the same Emacs session so whilst they look like different instances of Emacs they are not. They are good for multi-monitor setups however.
-
-**To-Do:** Investigate [`transpose-frame`](https://github.com/emacsorphanage/transpose-frame) package to swap frames around.
 
 ### Tab Line Mode
 
@@ -135,8 +131,6 @@ It can be invoked via `M-x tab-bar-mode` or by invoking one of the key bindings 
 | M-x tab-undo | Undoes a closed tab |
 | M-x tab-recent | Switches to the last visited tab |
 
-**To-Do:** Play with `tab-bar-history-...`
-
 ## General Editing Notes
 
 ### Line and Column Numbers
@@ -164,7 +158,59 @@ The Emacs terminology is:
 
 ...
 
-### Marking and Bookmarks
+### The Mark and The Mark Ring
+
+The mark is a position in the buffer. 
+
+The point is another name for the cursor. It is your current position in a buffer.
+
+A region is the block of text between the mark and the point.
+
+A mark can be set by pressing `C-<SPC>`. When the point moves the region is shown and changed accordingly. The region can be deactivated by pressing `C-<SPC>` again (or `C-g`).
+
+The mark is also used to jump around in a buffer and some commands which change your location in the buffer will add a mark to the mark ring so that you can return to your original position later. For example, `M-<` and `M->` jump to the beginning and end of the buffer but they both mark your current position first so that you can return to it via `C-u C-<SPC>`.
+
+The mark ring contains all of the marks placed in a buffer, either directly using commands like `C-<SPC>` or indirectly by commands like `M-<`.
+
+> There is also a global mark ring for commands that work across buffer boundaries.
+
+To manually set a mark without starting to set the region you press `C-<SPC> C-<SPC>`. Therefore is it possible to set a mark and then jump back to it easily using `C-u C-<SPC>`.
+
+The following set a region and leaves the region active (you can extend it further):
+
+| Key Sequence | Action |
+| --- | --- |
+| C-<SPC> | Set the mark |
+| M-h | Mark the next paragraph |
+| C-x h | Mark the entire buffer |
+| M-@ | Mark the next word |
+
+To mark two words you would press `M-@ M-@` or combine it with a numeric argument: `M-2 M-@`. You can change the direction using the negative argument modifier: `M-- M-2 M-@`.
+
+### Rectangular Selection
+
+`C-x SPC` toggles `M-x rectangle-mark-mode` on and off.
+
+### Bookmarks and Registers
+
+Bookmarks are permanent (they are saved to a file) and are most useful for jumping to frequently used files or directories.
+
+| Key Sequence | Action |
+| --- | --- |
+| C-x r l | List bookmarks |
+| C-x r m | Set a bookmark |
+| C-x r b | Jump to bookmark |
+
+Registers are transient and a single character is used to refer to stored items which can include window configurations and framesets. points, numbers and text.
+
+Numbers and text are maybe the most interesting things if you want to repeatedly insert text.
+
+| Key Sequence | Action |
+| --- | --- |
+| C-x r n | Store a number in a register |
+| C-x r s | Store a region in a register |
+| C-x r SPC | Store the point in a register |
+| C-x r i | Insert the contents of a register |
 
 ...
 
@@ -172,10 +218,28 @@ The Emacs terminology is:
 
 Emacs has `C-k` (`kill-line`) which deletes from the cursor to the end of the line. To delete the whole line use `C-a C-k`. But that just removed the 'contents' and leaves an empty line so maybe use `M-x kill-whole-line`.
 
-### Multiple Cursors
+## Spell Checking
 
-Add the [`multiple-cursors`](https://github.com/magnars/multiple-cursors.el) package.
+You need to have a spelling application and dictionary installed. The most common ones seem to be `aspell` and `hunspell`. Currently I use aspell and the `en_GB-ise-wo_accents` dictionary.
 
+The dictionary can be set in the configuration: `(setq ispell-dictionary "en_GB-ise-wo_accents")`.
+
+If you want to use a different program such as hunspell then you can define that too: `(setq ispell-program-name "hunspell")`.
+
+In addition, `flyspell-mode` (which shows a line under misspelled words) can be enabled automatically for text mode files (and an equivalent for programming mode files which only checks comments and strings):
+
+| Key Sequence | Action |
+| --- | --- |
+| M-$, M-x ispell-word | Check word at point |
+| M-x ispell | Check spelling in the buffer (or region if one is active) |
+| M-x ispell-buffer| Check spelling in the buffer |
+| M-x ispell-region | Check spelling in the region |
+| C-u M-$, M-x ispell-continue | Continue an interrupted spelling operation |
+
+```
+(add-hook 'text-mode-hook 'flyspell-mode)
+(add-hook 'prog-mode-hook 'flyspell-prog-mode)
+```
 
 ## Quality of Life Improvements
 
