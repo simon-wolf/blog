@@ -19,12 +19,13 @@ permalink: /goals_2026/
 ## 5k Pace
 
 * Goal: Run 5k in under 30 minutes.
-* Status: PB is 31:03 on 4 April 2026.
+* Status: Achieved on 24 May 2025 during the Taunton Trail 10k.
+* PB is 28:57 on 4 April 2026.
 
 ## 10k Pace
 
 * Goal: Run 10k in under 60 minutes.
-* Status: PB is 1:11:46 on 14 December 2025.
+* Status: PB is 1:02:50 on 24 May 2026.
 
 ## Regularly Attend parkruns
 
@@ -62,6 +63,8 @@ permalink: /goals_2026/
 | Date | Location | Time |
 | --- | --- | --- |
 | 2026-05-24 | Taunton Trail 10K | Pending |
+| 2026-06-07 | Chew Valley 10K | Pending |
+| 2026-08-16 | Frome 10K | Pending |
 
 ## 5K Races
 
