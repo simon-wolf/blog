@@ -46,7 +46,7 @@ permalink: /goals_2026/
 ## Volunteer At parkruns
 
 * Goal: Volunteer at 5 parkruns.
-* Status: In progress.
+* Status: Complete.
 
 | Date | Location | Role |
 | --- | --- | --- |
@@ -54,6 +54,7 @@ permalink: /goals_2026/
 | 2026-02-07 | Shepton Mallet | Token Support |
 | 2026-02-21 | Shepton Mallet | Course Marshal |
 | 2026-04-18 | Shepton Mallet | Course Marshal |
+| 2026-05-30 | Shepton Mallet | Course Marshal |
 
 ## 10K Races
 
