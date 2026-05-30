@@ -63,7 +63,7 @@ permalink: /goals_2026/
 
 | Date | Location | Time |
 | --- | --- | --- |
-| 2026-05-24 | Taunton Trail 10K | Pending |
+| 2026-05-24 | Taunton Trail 10K | 01:06:49 |
 | 2026-06-07 | Chew Valley 10K | Pending |
 | 2026-08-16 | Frome 10K | Pending |
 
