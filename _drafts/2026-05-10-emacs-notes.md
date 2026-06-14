@@ -1,5 +1,5 @@
 ---
-date: 2026-05-06 12:00
+date: 2026-05-10 12:00
 title: Emacs Notes
 categories: [computing]
 tags: [emacs]
@@ -7,7 +7,7 @@ tags: [emacs]
 
 This post is my set of notes about using Emacs and it will evolve over time as I work out how to do new things. The notes will be very personal to me and my use of Emacs but they might be handy for other people so I thought I would make it a public post, albeit one which will evolve over time.
 
-The main things this post will conver are:
+The main things this post will cover are:
 
 * General notes about using Emacs, terminology, etc.
 * Notes about the Emacs equivalents to things I do in Neovim, VS Code, etc.
@@ -203,14 +203,15 @@ Bookmarks are permanent (they are saved to a file) and are most useful for jumpi
 
 Registers are transient and a single character is used to refer to stored items which can include window configurations and framesets. points, numbers and text.
 
-Numbers and text are maybe the most interesting things if you want to repeatedly insert text.
+Numbers and text are useful if you want to repeatedly insert text but storing and jumping to points is useful when editing a codebase.
 
 | Key Sequence | Action |
 | --- | --- |
-| C-x r n | Store a number in a register |
-| C-x r s | Store a region in a register |
-| C-x r SPC | Store the point in a register |
-| C-x r i | Insert the contents of a register |
+| C-x r n r | Store a number in register r |
+| C-x r s r | Store a region in register r |
+| C-x r SPC r | Store the point in register r |
+| C-x r i r | Insert the contents of register r |
+| C-x r j r | Jump to point in register r |
 
 ...
 
