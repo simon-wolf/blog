@@ -1,5 +1,5 @@
 ---
-date: 2026-05-10 12:00
+date: 2026-06-18 12:00
 title: Emacs Notes
 categories: [computing]
 tags: [emacs]
@@ -213,8 +213,6 @@ Numbers and text are useful if you want to repeatedly insert text but storing an
 | C-x r i r | Insert the contents of register r |
 | C-x r j r | Jump to point in register r |
 
-...
-
 ### Neovim `dd`
 
 Emacs has `C-k` (`kill-line`) which deletes from the cursor to the end of the line. To delete the whole line use `C-a C-k`. But that just removed the 'contents' and leaves an empty line so maybe use `M-x kill-whole-line`.
@@ -227,8 +225,6 @@ The dictionary can be set in the configuration: `(setq ispell-dictionary "en_GB-
 
 If you want to use a different program such as hunspell then you can define that too: `(setq ispell-program-name "hunspell")`.
 
-In addition, `flyspell-mode` (which shows a line under misspelled words) can be enabled automatically for text mode files (and an equivalent for programming mode files which only checks comments and strings):
-
 | Key Sequence | Action |
 | --- | --- |
 | M-$, M-x ispell-word | Check word at point |
@@ -236,6 +232,8 @@ In addition, `flyspell-mode` (which shows a line under misspelled words) can be 
 | M-x ispell-buffer| Check spelling in the buffer |
 | M-x ispell-region | Check spelling in the region |
 | C-u M-$, M-x ispell-continue | Continue an interrupted spelling operation |
+
+In addition, `flyspell-mode` (which shows a line under misspelled words) can be enabled automatically for text mode files (and an equivalent for programming mode files which only checks comments and strings):
 
 ```
 (add-hook 'text-mode-hook 'flyspell-mode)
