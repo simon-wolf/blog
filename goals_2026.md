@@ -19,8 +19,7 @@ permalink: /goals_2026/
 ## 5k Pace
 
 * Goal: Run 5k in under 30 minutes.
-* Status: Achieved on 24 May 2025 during the Taunton Trail 10k.
-* PB is 28:57 on 4 April 2026.
+* Status: Achieved on 24 May 2026 during the Taunton Trail 10k with 28:57.
 
 ## 10k Pace
 
