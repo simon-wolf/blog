@@ -19,7 +19,7 @@ permalink: /goals_2026/
 ## 5k Pace
 
 * Goal: Run 5k in under 30 minutes.
-* Status: Achieved on 24 May 2026 during the Taunton Trail 10k with 28:57.
+* Status: Achieved on 24 May 2026 during the Taunton Trail 10k with 28:57. <i class="fa fa-check"></i>
 
 ## 10k Pace
 
@@ -28,25 +28,23 @@ permalink: /goals_2026/
 
 ## Regularly Attend parkruns
 
-* Goal: Hit the 10 milestone.
+* Goal: Complete 10 parkruns in 2026.
 * Status: In progress.
 
 | Date | Location | Time |
 | --- | --- | --- |
-| 2025-07-19 | Shepton Mallet | 35:35 |
-| 2025-07-26 | Shepton Mallet | 35:27 |
-| 2025-10-18 | Shepton Mallet | 32:13 |
 | 2026-01-17 | Shepton Mallet | 33:14 |
 | 2026-02-14 | Shepton Mallet | 32:00 |
 | 2026-04-04 | Shepton Mallet | 31:03 |
 | 2026-04-11 | Shepton Mallet | 31:51 |
 | 2026-04-25 | Shepton Mallet | 30:52 |
 | 2026-07-11 | Shepton Mallet | 30:36 |
+| 2026-08-01 | Shepton Mallet | 30:32 |
 
 ## Volunteer At parkruns
 
 * Goal: Volunteer at 5 parkruns.
-* Status: Complete.
+* Status: Complete. <i class="fa fa-check"></i>
 
 | Date | Location | Role |
 | --- | --- | --- |
@@ -58,7 +56,7 @@ permalink: /goals_2026/
 
 ## 10K Races
 
-* Goal: Run four 10k races.
+* Goal: Run five 10k races.
 * Status: Pending.
 
 | Date | Location | Time |
@@ -66,11 +64,8 @@ permalink: /goals_2026/
 | 2026-05-24 | Taunton Trail 10K | 01:06:49 |
 | 2026-06-07 | Chew Valley 10K | 01:04:27 |
 | 2026-08-16 | Frome 10K | Pending |
-
-## 5K Races
-
-* Goal: Run four 5k races.
-* Status: Pending.
+| 2026-10-11 | Bath & Bristol Railway 10K | Pending |
+| 2026-12-13 | Weston Christmas Cracker | Pending |
 
 ## Improve Slow Running
 
