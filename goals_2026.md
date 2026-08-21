@@ -24,7 +24,7 @@ permalink: /goals_2026/
 ## 10k Pace
 
 * Goal: Run 10k in under 60 minutes.
-* Status: PB is 1:02:50 on 24 May 2026.
+* Status: Achieved on 16 August 2026 during the Frome Running Festival 10k with 00:59:44. <i class="fa fa-check"></i>
 
 ## Regularly Attend parkruns
 
@@ -64,7 +64,7 @@ permalink: /goals_2026/
 | --- | --- | --- |
 | 2026-05-24 | Taunton Trail 10K | 01:06:49 |
 | 2026-06-07 | Chew Valley 10K | 01:04:27 |
-| 2026-08-16 | Frome 10K | Pending |
+| 2026-08-16 | Frome 10K | 00:59:44 |
 | 2026-10-11 | Bath & Bristol Railway 10K | Pending |
 | 2026-12-13 | Weston Christmas Cracker | Pending |
 
