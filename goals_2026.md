@@ -29,7 +29,7 @@ permalink: /goals_2026/
 ## Regularly Attend parkruns
 
 * Goal: Complete 10 parkruns in 2026.
-* Status: In progress.
+* Status: Complete. <i class="fa fa-check"></i>
 
 | Date | Location | Time |
 | --- | --- | --- |
@@ -42,6 +42,7 @@ permalink: /goals_2026/
 | 2026-08-01 | Shepton Mallet | 30:32 |
 | 2026-08-08 | Shepton Mallet | 28:27 |
 | 2026-08-22 | Shepton Mallet | 28:24 |
+| 2026-09-14 | Shepton Mallet | 29:58 |
 
 ## Volunteer At parkruns
 
